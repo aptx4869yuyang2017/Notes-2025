@@ -1,0 +1,120 @@
+---
+up:
+  - "[[Logs MOC]]"
+created: 2024-02-04
+---
+
+- [[2024-02-02]]
+	- Unity 的组织项目的方式
+		- 游戏 - 场景 - GameObject - 组件
+		- ![300](https://s1.vika.cn/space/2024/02/04/23db34b1a8da4a36846940e69e9c056d)
+		- ![300](https://s1.vika.cn/space/2024/02/04/0f119248ba9048509558e47c1d7206b3)
+- [[2024-02-03]]
+	- 看懂了 Primer 物体和脚本的绑定方式
+	- [[Unity 使用Recorder录制视频]]
+- [[2024-02-04]]
+	- 看懂了Unity 不同脚本之间的交互方式，互相修改状态
+		- ![400](https://s1.vika.cn/space/2024/02/04/7910f4688bb0457992dfefec5b0b8b15)
+		- 1 可以从界面传入需要控制的 Player
+		- 2 获取 animator 组件
+		- 3 animator 将状态改为 player 中的信息
+		- 也可以说是一种**解除耦合**
+	- Cinemachine
+- [[2024-02-05]]
+	- 分手厨房
+		- 碰撞检测
+			- Raycast 的各种参数设置，主要了解了 胶囊cast 的位置参数
+				- 其他参数可以参考  [Raycasts, Explained. Every Physics "Cast" Visualized | Unity Tutorial - YouTube](https://www.youtube.com/watch?v=fJyi7l2tWKo)
+			- 侧向
+		- 计数器初步设置
+			- box collider 要加给父物体
+			- 给 prefab 绑定脚本 **vs** 给 prefab 的实例绑定脚本
+			- cast 探测 只在某个图层里面
+	- Primer Unity
+		- 努力看了一下  IEnumerator 到底在干嘛
+			- 用来组织场景过程的
+- [[2024-02-07]]
+	- C# 存在 委托 delegate 的原因是因为 不能直接把函数当作参数 [[如何使用代理Delegate优化代码]]
+	- 事件的实现 [[C-Sharp 中的事件 Event]]
+- [[2024-02-08]]
+	- 快速刷了 [[Creat with Code]] 第一章 挺简单的 感觉没什么用 还是放弃吧
+	- [[Unity 中的 协程 Coroutines]]
+- [[2024-02-11]]
+	- 快速刷了一下 [[Unity中文课堂 - C-Sharp初级编程]]
+		- 很基础，但是还是有必要，[[Unity-分手厨房 Code Monkey(course)]] 这个一上来还是有点难，多脚本组织还是不太习惯
+- [[2024-02-14]]
+	- [[C-Sharp 中的事件 Event]] 还是认真在看了一下这个 事件 和 EventHandler 的使用
+	- [[Unity-分手厨房 Code Monkey(course)]]
+		- 找到了 EP 18 的Bug 还是判断条件写的不对
+		- 梳理了 事件调用的关系
+			- GameInput 给 playerInputActions.Player.Interact.performed 事件绑定函数，OnInteractAction事件 会触发
+			- Player 给 OnInteractAction事件 绑定触发的函数
+		- 只看视频还是不太容易跟上，还是得用笔记同时整理一下思路 [Unity 分手厨房 - 飞书笔记 ](https://rk7nrn34nu.feishu.cn/docx/EpMldTacIoXTBHxpeMWcC7YlnLf)
+		- EP19
+- [[2024-02-15]]
+	- [[Unity-分手厨房 Code Monkey(course)]]
+		- EP20 主要是 KitchenObject / Counter 之间互相保存信息，处理方法，外部处理
+		- EP21 要学习 Interface 了
+			- 可以用 Interface 来改变 KitchenObject 的父级对象了！！！
+		- EP 22 类的继承
+			- 如何使用父类的 属性
+				- protected
+				- get 方法
+		- EP23 pick up & drop 功能
+			- 增加了不同类型的Container 比较简单的一课 
+		- EP24 切割台
+		- EP25 食谱SO
+- [[2024-02-16]]
+	- [[Unity-分手厨房 Code Monkey(course)]]
+		- EP26 UI 的使用
+		- EP27 Enum 看向相机的方法
+		- EP28 快速实现 Trash
+		- EP29 状态机方式
+		- EP30
+- [[2024-02-18]]
+	- EP31-32 怎么实现增加食物的视觉效果
+	- EP33 给盘子加上 UI 看看能不能用上UI 学到的零星知识
+		- 物体 UI 使用 world space
+		- 不是所有的东西都得用prefab 复用次数少的可以直接放在需要的位置
+	- EP35-36 硬着头皮操作了一遍 Recipe UI 其实完全没过脑子
+		- 还是得看看 怎么代码怎么操作UI的
+- [[2024-02-23]]
+	- 为了 随机游走 -  A* 寻路算法 开了一个2D的坑，确实也得了解了解
+	- [[Unity 2D Snake]]
+		- 初始化场景
+- [[2024-02-24]]
+	- [[Unity 2D Snake]]
+		- 02 蛇头移动基础功能
+	- [[Unity Grid System]]
+		- 基础网格
+		- HeatMap 
+			- 效果开了一个 Mesh 的分叉
+- [[2024-02-27]]
+	- 看了一下 camRig 相关源码
+		- camRag 其实就是给 Camera 对象绑定的一个脚本
+		- 移动相机的一些方法
+			- MoveCenterTo
+			- SwivelTo
+			- ZoomTo
+- [[2024-02-29]]
+	- Primer
+		- 如何组织 骰子/硬币 模拟的
+		- Primer Object -> Simulator -> CoinFlipper
+- [[2024-03-01]]
+	- Primer
+		- 找到了 Primer 动画实现放方式
+			- 位置 PrimerBlob : PrimerCharacter : PrimerObject
+			- 使用 `animator = GetComponent<Animator>()`
+			- 触发动画 `animator.SetTrigger("leftBlink");`
+- [[2024-03-02]]
+	- [[Unity Git]]
+- [[2024-03-03]]
+	- [[Unity Lerp]]
+		- MoveTowards 这个计算方法 移动的时候可以使用
+		- 因为 C# 没有传函数的方法，所以其实 ease 函数都是 给 t 处理好了，然后传给 Lerp 函数
+	- [[Ease Function]]
+	- [[Unity 中的 协程 Coroutines|IEnumerator]]
+- [[24-03-16]]
+	- [[Unity Quaternion 旋转]]
+- [[2024-03-17]]
+	- [[Unity 神经网络实现 - Evolution Simulator with Neural Networks(youtube)]]

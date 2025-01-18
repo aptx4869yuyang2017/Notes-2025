@@ -3,8 +3,7 @@ created: 2024-03-23
 tags:
   - domain/data
 type: "[[Chapter]]"
-up:
-  - "[[DAX 权威指南(book)]]"
+up: "[[DAX 权威指南(book)]]"
 related: 
 ch: "05"
 finished: 2024-03-23
