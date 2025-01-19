@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[PowerBI DAX 概念]]"
+  - "[[PowerBI DAX 概念 Concept]]"
 related:
   - "[[DAX 权威指南 - CH04 理解计值上下文EC]]"
 created: 2024-12-08

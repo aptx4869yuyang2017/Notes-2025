@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[PowerBI DAX 概念]]"
+  - "[[PowerBI DAX 概念 Concept]]"
 related:
   - "[[DAX-迭代函数]]"
 created: 2025-01-11

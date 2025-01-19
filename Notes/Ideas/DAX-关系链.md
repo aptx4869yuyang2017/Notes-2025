@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[PowerBI DAX 概念]]"
+  - "[[PowerBI DAX 概念 Concept]]"
 related:
   - "[[DAX-计值上下文与关系]]"
 created: 2024-12-08
