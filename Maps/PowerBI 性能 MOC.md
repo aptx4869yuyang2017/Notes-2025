@@ -17,6 +17,11 @@ aliases:
 - RelatedTable vs CalculateTable
 	- [[DAX - RelatedTable]]
 
+·
+# 模型优化
+
+- [[DAX-Case-关闭自动日期时间]]
+
 
 
  > [!important] Performance

@@ -1,10 +1,10 @@
 ---
 up: 
 related: 
-created: 
+created: 2025-01-22
 tags:
   - domain/investment
-  - "#domain/data"
+  - domain/data/viz
 ---
 
 

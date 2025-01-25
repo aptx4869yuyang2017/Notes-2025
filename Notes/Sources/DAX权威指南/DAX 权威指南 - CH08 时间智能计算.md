@@ -9,11 +9,17 @@ related:
 ch: "08"
 finished:
 ---
+> [!important]- TOC
+> ![400](https://s1.vika.cn/space/2024/03/27/cc41ae99f6034290b2b5645e9a915156)![400](https://s1.vika.cn/space/2024/03/27/c940ec747d6b44d88d010cabb37a0a84)
 
-![400](https://s1.vika.cn/space/2024/03/27/cc41ae99f6034290b2b5645e9a915156)
-![400](https://s1.vika.cn/space/2024/03/27/c940ec747d6b44d88d010cabb37a0a84)
 
-## 介绍时间智能
+
+
+
+# 介绍时间智能
+
+[[DAX-Case-关闭自动日期时间]]
+
 
 
 ## 构建日期表

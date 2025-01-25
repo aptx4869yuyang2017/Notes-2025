@@ -3,8 +3,7 @@ up:
 related: 
 tags: 
 type: "[[Movie-Series]]"
-created:
-  "{ date }": 
+created: {{date}}
 finished: 
 year: 
 short:

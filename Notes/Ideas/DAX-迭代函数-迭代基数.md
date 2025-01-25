@@ -3,6 +3,7 @@ up:
   - "[[PowerBI DAX 概念 Concept]]"
 related:
   - "[[DAX-迭代函数]]"
+  - "[[DAX 权威指南 - CH07 使用迭代函数Calculate组合]]"
 created: 2025-01-11
 tags:
   - domain/powerbi
@@ -87,7 +88,17 @@ MEASURE Sales[Sales at List Price 3] =
         )
 ```
 
-- ⚠️这个写法仍旧会有迭代
+
+> [!note] 
+> From a performance point of view, when there are nested iterators, **only the innermost iterator can be optimized with the more efficient query plan**. The presence of outer iterators requires the creation of temporary tables in memory. These temporary tables store the intermediate result produced by the innermost iterator. This results in slower performance and higher memory consumption. As a consequence, nested iterators should be avoided if the cardinality of the outer iterators is very large—in the order of several million rows.
+> 
+> 从性能的角度来看，当存在嵌套迭代器时，**只有最内层的迭代器可以使用更高效的查询计划进行优化**。外层迭代器的存在要求在内存中创建临时表。这些临时表存储由最内层迭代器产生的中间结果。这会导致性能变慢和更高的内存消耗。因此，如果外层迭代器的基数非常大——达到数百万行的量级——应该避免使用嵌套迭代器。
+
+#domain/powerbi/performance  #todo
+
+
+
+
 
 ```
 MEASURE Sales[Sales at List Price 5] =

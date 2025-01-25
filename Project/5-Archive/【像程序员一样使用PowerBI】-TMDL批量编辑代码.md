@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[视频输出记录]]"
+  - "[[输出Output Map]]"
 related: 
 created: 2025-01-19
 ---

@@ -2,11 +2,11 @@
 up:
   - "[[PowerBI DAX Case 案例]]"
 related:
-  - "[[DAX 权威指南 - CH04 理解计值上下文EC]]"
-created: 2024-12-08
+  - "[[DAX-RC-多层嵌套行上下文]]"
+created: 2025-01-19
+tags:
+  - domain/powerbi
 ---
-
-#### 同一个表上多层嵌套行上下文
 
 **需求：在 Product 表上根据 Unit Price 给产品排序**
 
