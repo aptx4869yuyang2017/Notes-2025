@@ -1,9 +1,19 @@
-## 6 在筛选上下文中使用 Distinct 和 Sumarize 函数
+---
+up:
+  - "[[PowerBI DAX Case 案例]]"
+related:
+  - "[[DAX-筛选上下文FC]]"
+  - "[[DAX 权威指南 - CH04 理解计值上下文EC]]"
+created: 2025-01-26
+tags:
+  - domain/powerbi
+---
+> [!important]
+> 这个CH04案例的核心还是为了辅助我们理解，完整的度量值是在筛选上下文中进行计值的，只有在筛选上下文中存在的 消费记录才会被 Summarize 统计进来
 
 
-#### 案例学习：Contoso 计算 客户 粒度上的 平均购买年龄
 
-#domain/powerbi/case
+**案例学习：Contoso 计算 客户 粒度上的 平均购买年龄**
 
 
 > [!note] 需要进一步明确需求
@@ -15,23 +25,25 @@ Compute the average age of customers **at the time of sale**, counting each cust
 
 
 
-第一步：计算发生消费的时候的客户年龄
+# 第一步：计算发生消费的时候的客户年龄
 
 ![600](https://s1.vika.cn/space/2024/03/22/8aab3661844b4c4cadc2ae15ffab4ea0)
 
 行上下文通过 Related 传递
 
-第二步：计算对应粒度上的平均年龄
+# 第二步：计算对应粒度上的平均年龄
 
-错误版本一：一个年龄只算了一次，没有考虑客户粒度
+
+## Error 1：一个年龄只算了一次，没有考虑客户粒度
+
 
 ![600](https://s1.vika.cn/space/2024/03/22/68e0420f951c435a9d5fc0fc7171d548)
 
-错误版本二：遍历的表中没有 计算信息
+## Error 2：遍历的表中没有 计算信息
 
 ![600](https://s1.vika.cn/space/2024/03/22/398f8fbb2b1d4876ab3beecf0b3cb85a)
 
-正确版本
+## 正确版本
 
 [[DAX 权威指南 - CH03 基础表函数]] 中提到了 **[[DAX-Summarize]]是可以聚合多列的 Distinct/Values** 
 

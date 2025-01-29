@@ -21,7 +21,7 @@ finished: 2024-03-20
 		- 作为普通函数的参数
 		- 可以用表函数定义变量
 		- 嵌套其他表函数 -> **计值顺序**
-			- RelatedTable [[DAX - RelatedTable]]
+			- RelatedTable [[DAX-RelatedTable]]
 		- Calculated Table 计算表（虚拟表）
 		- 使用 Evaluate 查询表
 			- [[DAX 权威指南 - CH13 写查询]] 会深入介绍
@@ -31,6 +31,7 @@ finished: 2024-03-20
 - 常见基础表函数
 	- [[DAX-Filter]]  迭代表，减少筛选数据
 	- [[DAX-All & AllExcept]] 删除筛选状态
+		- [[DAX-Case-Top类别子类别]]
 	- [[DAX-Values & Distinct]]  获取唯一值表的两种函数
 	- [[DAX-AllNoBlankRow]] All 函数的 Distinct 版本
 	- [[DAX-AllSelected]] 能被切片器影响的 All

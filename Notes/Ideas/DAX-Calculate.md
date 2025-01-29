@@ -8,43 +8,8 @@ tags:
   - domain/powerbi
 ---
 
-Calculate 这个函数还是相当复杂的，目前这部分框架是 [[DAX 权威指南 - CH05 Calculate & CalculateTable||CH05-01]] 的内容
 
-- **如果没有Calculate 应该怎么实现 vs Calculate 简化计算**
-- **介绍 Calculate 操作上下文的原理**
-- 调节器器介绍
-	- **如何计算百分比（Calculate 与 [[DAX-All类函数||All类函数]] 的配合）**
-		- All(dim[xx])
-		- All(dim)
-		- All(fact) - [[DAX 权威指南 - CH14 DAX高级概念]] 中 [[DAX-拓展表]] 概念
-		- All(fact) + Values(dim[xx]) - 恢复某列的筛选效果
-			- 可以用 [[DAX-All & AllExcept||AllExcept]] 替代这种方法
-			- 但是语义不同 [[DAX 权威指南 - CH10 使用筛选上下文]] 会详细介绍差异
-	- **[[DAX-KeepFilters]] 函数介绍**
-		- 不覆盖
-- 筛选参数拓展
-	- **筛选单列**  `Sales[Net Price] >= 10 && Sales[Net Price] <= 100)`
-	- **筛选复杂条件** `Sales[Quantity] ** Sales[Net Price] >= 1000)`
-- **Calculate 计值顺序**
-	- 由外向内层层覆盖
-
-
-先整理了一个框架，后面懒得梳理了暂时 #todo
-
----
-
-
-
-### 创建筛选上下文
-
-
-- 基础语法
-	- `CALCULATE ( Expression, Condition1, … ConditionN )`
-- 相比使用 Filter 优雅简洁
-- 但是和使用 Filter 的有功能上的差异
-
-
-### 引入 Calculate
+# 参数介绍
 
 
 
@@ -54,13 +19,12 @@ Calculate 这个函数还是相当复杂的，目前这部分框架是 [[DAX 权
 
 - 完整语法格式，**值的列表**， 形式是一个 **表的表达式**
 	- 结果可以是任意数量的列
-- 布尔值 **语法糖**  #domain/powerbi/sugar
-	- **语法糖不存在功能和性能上的任何差异** #domain/powerbi/performance 
+- 布尔条件是一种 **语法糖**  [[DAX-语法糖]] ^e30627
+	- **语法糖不存在功能和性能上的任何差异** [[PowerBI 性能 MOC|PowerBI Performance]]
 	- 结果必须是**单值的值列表**
 	
 
-
-
+# 基础语义
 
 
 ![500](https://s1.vika.cn/space/2024/03/23/c3046843cb69486eb51a6ecc4ec57dc8)
@@ -81,57 +45,43 @@ Calculate 这个函数还是相当复杂的，目前这部分框架是 [[DAX 权
 - 恢复原始上下文
 
 
-### 计算百分比
 
-![500](https://s1.vika.cn/space/2024/03/23/20a0a866345e435fae19d07018aabcbd)
-![500](https://s1.vika.cn/space/2024/03/23/1d63cfb6bd90491aa4a002ae3d21ef14)
-![500](https://s1.vika.cn/space/2024/03/23/07e761351cc64d95b803379f509a3868)
+# 计算百分比
 
-- 这里的效果**不是 用了一个 值列表去替换 已经存在的筛选上下文**
-- 而是直接移除了相关的筛选上下文
-- 看起来是因为效率更高？
-
-![600](https://s1.vika.cn/space/2024/03/23/507ea39dce2e4cedbd4be1d4199369e4)
-![600](https://s1.vika.cn/space/2024/03/23/f63ae510661f4f48b71e4bbc831de8ba)
-![600](https://s1.vika.cn/space/2024/03/23/2ae0f82a6c67439e8b03fbb9476b0533)
-![600](https://s1.vika.cn/space/2024/03/23/9603c4bd09634fe0915f68e33894c578)
-
-展示操作筛选上下文的不同技术
-
-![600](https://s1.vika.cn/space/2024/03/23/604413a4bc244131ab9acf0d44b3429e)
-![600](https://s1.vika.cn/space/2024/03/23/81fe1d17658b46599e1c72dc85bfbfba)
-
-![600](https://s1.vika.cn/space/2024/03/23/d250a1735f7d4d0ba4fa7cf8683feec1)
+[[DAX-Case-计算百分比]]
 
 
-`Values('Date'[Calendar Year])` **这句是在原始上下文中计值的**
+# KeepFilters
+
+如果不想覆盖当前列上存在的上下文怎么办？
+
+- 当然不是又回去用 Filter
+- 而是使用 [[DAX-KeepFilters]]
 
 
-### 由多个列构成的筛选条件
 
-![500](https://s1.vika.cn/space/2024/03/23/2f4b22ff23c0452d8e7e73573dd8558b)
-
-- 只能使用 值列表的方式，布尔值的语法糖不行
-- 值列表是两个列值的组合
-
----
-
-![600](https://s1.vika.cn/space/2024/03/23/5f2301e778d54778a9a12c8551b1d75e)
-
-![600](https://s1.vika.cn/space/2024/03/23/7374b8dff4bb497b86de2ad07b0daf2f)
-
-使用 KeepFilters 可以引入外部筛选器的影响
-
-![400](https://s1.vika.cn/space/2024/03/23/2c856071cb4145918d58092249faeb36)
-
-- 非最佳实践
-- calculate 的非第一参数的参数计算，是使用外部的筛选上下文
-	- 所以这个写法确实语义上和第一个一样
-- 性能和结果准确性都有问题
-	- [[DAX 权威指南 - CH14 DAX高级概念]] 中讨论细节
+# 单列上的多个条件
 
 
-### 多层嵌套 calculate 计值顺序
+![image.png](https://s1.vika.cn/space/2025/01/28/43a2c496c2da4a559516789abaff1967)
+![image.png](https://s1.vika.cn/space/2025/01/28/60265a1d0c774e1e845e982eda471fe5)
+
+
+- 语法有效
+- 从转化完整语法的角度思考
+
+[[PowerBI 性能 MOC|PowerBI Performance]]：这里性能会有差异么？
+
+
+
+# 由多个列构成的筛选条件
+
+- 书中的内容可以扫一眼，版本更新之后很多写法开始支持了
+- [[DAX-Calcualte-多条件筛选(21-03之后)]] 
+
+
+
+# 多层嵌套 calculate 计值顺序
 
 ![400](https://s1.vika.cn/space/2024/03/23/a3ea4a1dd5774fec849aa27ab838a641)
 

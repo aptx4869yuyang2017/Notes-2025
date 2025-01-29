@@ -104,3 +104,6 @@ Dit Hit
 
 资源：Epidemic Sound
 
+
+
+[[FCPX - 控制音频的 dB 范围 Limiter 特效]]

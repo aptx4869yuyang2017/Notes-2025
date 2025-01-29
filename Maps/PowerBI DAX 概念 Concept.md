@@ -5,11 +5,11 @@ related:
 created: 2024-12-07
 ---
 
-> [!map]+ Book
+> [!map]+ 概念清单
 > ```dataview
-> table year, created, finished
+> table year, created
 > where up[0] = [[PowerBI DAX 概念 Concept]] and !contains(file.name, "Template")
-> sort created desc
+> sort file.name
 > ```
 
 

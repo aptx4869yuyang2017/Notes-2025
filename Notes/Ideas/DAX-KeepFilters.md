@@ -7,11 +7,28 @@ created: 2025-01-04
 tags:
   - domain/powerbi
 ---
+
+# 介绍 CH05-01
+
 KeepFilters 本质上是 **筛选参数调节器**
 不会覆盖同一列上已经存在的筛选器
 
+## 单一值写法
 
-两种用法
+![image.png](https://s1.vika.cn/space/2025/01/28/7c44b8cfb53a451b87ba0e41bbf124aa)
+
+
+![image.png](https://s1.vika.cn/space/2025/01/28/61f3fbd23bc54da0b9d5c27434662a74)
+
+
+## 多值写法
+
+![image.png](https://s1.vika.cn/space/2025/01/28/ea2e673f778e443faf0243011e237049)
+
+![image.png](https://s1.vika.cn/space/2025/01/28/6f0908b4b3ad4496828c79eb67903b48)
+
+
+# 两种用法(CH05-03)
 
 用法一：calculate 的参数
 ![](https://s1.vika.cn/space/2025/01/04/f39ba38c8989470eafade3e7c1391cd0)

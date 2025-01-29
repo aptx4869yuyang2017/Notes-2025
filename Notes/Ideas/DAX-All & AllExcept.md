@@ -8,7 +8,7 @@ tags:
   - domain/data
 ---
 
-# CH03 内容
+# CH03 内容（作为表函数）
 
 
 - All 系列函数的本质可以和 Filter 对照理解，是为了扩展行数实现特定计算
@@ -22,103 +22,29 @@ tags:
 - AllExcept 
 	- 为了自动引入自动加入到表中的列
 
----
 
-### 案例 - Top 类别子类别
 
-#domain/powerbi/case 
+[[DAX-Case-Top类别子类别]]
 
-> [!important]  Top 类别子类别
-> EN-P66/CH-P62
+
+
+# CH05 作为调节器
+
+### All in Calculate
+
+> [!error] 错误理解
+> ![400](https://s1.vika.cn/space/2024/03/23/f8ab9d8f5b5f4cf090247bae5799f7ad)
 > 
-> the category and subcategory of products that sold more than twice the average sales amount
-> 销售额超过平均销售额两倍的产品类别和子类别
-> 
-> 怎么用 Calculate 写更高效的版本呢？
-> #domain/powerbi/performance 
-> #TODO 
 
-^f02df8
+> [!important] 正确理解
+> ![400](https://s1.vika.cn/space/2024/03/23/3055825904fc4b36bdad0c3832d24086)
 
 
+- 本质上和 All 作为表函数是不同的功能
+- 应该被称为 RemoveFilter 但是因为历史原因保留了这个名字
+- Calculate 执行的筛选器参数也有执行顺序，All类会先执行
 
-显示销售额超过平均值两倍的类别和子类别， 存到一个表中
+![400](https://s1.vika.cn/space/2024/03/23/fdebbc3070f344b68582ef05e25c422d)
 
-- 使用 All 列出所有 类别-自类别组合
-- 计算 类别-子类别组合 销售额 的平均值
-- 筛选出 符合条件 的类别-子类别组合
-	- 这里 创建变量的方式很有意思，要理解 **变量计算使用的是创建时候的计值上下文**
-
-#### 方案一 - CH03
-
-```
-BestCategories =
-VAR Subcategories =
-    ALL ( 'Product'[Category], 'Product'[Subcategory] )
-VAR AverageSales =
-    AVERAGEX (
-        Subcategories,
-        SUMX ( RELATEDTABLE ( Sales ), Sales[Quantity] * Sales[Net Price] )
-    )
-VAR TopCategories =
-    FILTER (
-        Subcategories,
-        VAR SalesOfCategory =
-            SUMX ( RELATEDTABLE ( Sales ), Sales[Quantity] * Sales[Net Price] )
-        RETURN
-            SalesOfCategory >= AverageSales * 2
-    )
-RETURN
-    TopCategories
-```
-
-
-#### 方案二 - 预计算版本
-
-```
-VAR Subcategories =
-    ALL('Product'[Category], 'Product'[Subcategory])
-VAR SalesPerSubcategory =
-    ADDCOLUMNS(
-        Subcategories,
-        "@TotalSales", SUMX(RELATEDTABLE(Sales), Sales[Quantity] * Sales[Net Price])
-    )
-VAR AverageSales =
-    AVERAGEX(SalesPerSubcategory, [@TotalSales])
-VAR TopCategories =
-    FILTER(
-        SalesPerSubcategory,
-        [@TotalSales] >= AverageSales * 2
-    )
-RETURN
-    TopCategories
-
-```
-
-
-#### 方案三 -  使用 Calculate 预计算 (上下文转换)
-
-```
-VAR Subcategories =
-    ALL('Product'[Category], 'Product'[Subcategory])
-
-VAR AverageSales =
-    AVERAGEX(
-        Subcategories,
-        CALCULATE(
-            SUMX(Sales, Sales[Quantity] * Sales[Net Price])
-        )
-    )
-
-VAR TopCategories =
-    FILTER(
-        Subcategories,
-        CALCULATE(
-            SUMX(Sales, Sales[Quantity] * Sales[Net Price])
-        ) >= AverageSales * 2
-    )
-
-RETURN
-    TopCategories
-
-```
+ - 第一次看还是没有搞清楚 [[DAX-Calculate-筛选参数调节器]] 的概念
+ - 现在看这个逻辑很清晰，All 先生效移除了所有 Color 筛选，KeepFilters 作用在最终筛选上下文上，保留 Red。其实效果和 简单实用 `'Product'[Color] = "Red"` 效果一致

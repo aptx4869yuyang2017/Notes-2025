@@ -1,10 +1,15 @@
 ---
 up:
-  - "[[PowerBI DAX Case 案例]]"
+  - "[[PowerBI DAX 概念 Concept]]"
 related:
   - "[[DAX 权威指南 - CH04 理解计值上下文EC]]"
 created: 2024-12-08
 ---
+
+> [!important]
+> 这里也是 Tableau / PowerBI **思维方式差异**的一部分，实际上 Tableau 完全是 Filter 思维，大部分逻辑都是得按照 Filter 的方式写，如果需要类似 All 的结果就得调整数据结构或者使用 LOD 了
+> [[Tableau vs PowerBI 计算架构类比]]
+
 
 ### Filter 如何影响
 

@@ -15,8 +15,8 @@ name: The Definitive Guide to DAX
 - ![[DAX 权威指南 - CH03 基础表函数]]
 - ![[DAX 权威指南 - CH04 理解计值上下文EC]]
 
-- [[DAX 权威指南 - CH05 Calculate & CalculateTable]]
-- [[DAX 权威指南 - CH06 变量]]
+- ![[DAX 权威指南 - CH05 Calculate & CalculateTable]]
+- ![[DAX 权威指南 - CH06 变量]]
 
 - [[DAX 权威指南 - CH07 使用迭代函数Calculate组合]]
 - [[DAX 权威指南 - CH08 时间智能计算]]
