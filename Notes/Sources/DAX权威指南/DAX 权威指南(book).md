@@ -14,11 +14,11 @@ name: The Definitive Guide to DAX
 - [[DAX 权威指南 - CH02 DAX 基础概念与基础函数]]
 - ![[DAX 权威指南 - CH03 基础表函数]]
 - ![[DAX 权威指南 - CH04 理解计值上下文EC]]
-
 - ![[DAX 权威指南 - CH05 Calculate & CalculateTable]]
+- 
 - ![[DAX 权威指南 - CH06 变量]]
 
-- [[DAX 权威指南 - CH07 使用迭代函数Calculate组合]]
+- ![[DAX 权威指南 - CH07 使用迭代函数Calculate组合]]
 - [[DAX 权威指南 - CH08 时间智能计算]]
 - [[DAX 权威指南 - CH09 计算组]]
 - [[DAX 权威指南 - CH10 使用筛选上下文]]

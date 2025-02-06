@@ -10,11 +10,11 @@ tags:
 ---
 
 
- #domain/powerbi/performance 
+[[PowerBI 性能 MOC|PowerBI Performance]] 
  
 - Cardinality 基数，迭代表的行数
 - 尤其注意 外层迭代的基数
-	- 内部的迭代才能优化
+	- 最内层的的迭代才能优化
 	- 外部迭代器需要创建临时内存表，增加内存占用
 - 嵌套迭代器，在大表上执行上下文转换会非常慢
 
@@ -94,7 +94,7 @@ MEASURE Sales[Sales at List Price 3] =
 > 
 > 从性能的角度来看，当存在嵌套迭代器时，**只有最内层的迭代器可以使用更高效的查询计划进行优化**。外层迭代器的存在要求在内存中创建临时表。这些临时表存储由最内层迭代器产生的中间结果。这会导致性能变慢和更高的内存消耗。因此，如果外层迭代器的基数非常大——达到数百万行的量级——应该避免使用嵌套迭代器。
 
-#domain/powerbi/performance  #todo
+
 
 
 
@@ -109,6 +109,6 @@ MEASURE Sales[Sales at List Price 5] =
 ```
 
 - 最差的写法
-- **大表/行不唯一 使用上下文转换** #domain/powerbi/performance 
+- **大表/行不唯一 使用上下文转换** 
 
 

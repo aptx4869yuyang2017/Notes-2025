@@ -1,12 +1,12 @@
 ---
 up:
-  - "[[Media MOC]]"
+  - "[[Media 媒体运营 MOC]]"
 related: 
 created: 2025-01-28
 tags:
   - domain/media
 type: "[[Course]]"
-finished:
+finished: 
 ---
 [制作文本动画(Animating type)\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1cx411Q7K8?spm_id_from=333.788.videopod.episodes&vd_source=6d4ef5f8b8b73d69ea854cb9321a50ac&p=12)
 
@@ -113,8 +113,20 @@ Stylize - Line Art
 
 ## 16.稳定视频 
 
+![image.png](https://s1.vika.cn/space/2025/01/29/e683fa452655477482c391f16d086065)
+
+![image.png](https://s1.vika.cn/space/2025/01/29/7bf0ceb4f3e740f296a27c549e99a645)
 
 
 
-## 17.制作匹配移动
+## 17.制作匹配移动 Match Move
+
+
+![image.png](https://s1.vika.cn/space/2025/01/29/ee1154925b3d449fa149bbb9ce241a46)
+
+Behaviors - Motion Tracking - Match Move
+
+
+
+
 

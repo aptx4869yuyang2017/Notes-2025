@@ -1,7 +1,7 @@
 ---
 up: 
 related:
-  - "[[FCPX - Ali Abdaal 教程]]"
+  - "[[FCPX-Ali Abdaal 教程]]"
 created: 2025-01-24
 tags:
   - domain/media
@@ -30,3 +30,7 @@ Transition
 
 音效
 **Swish2**
+
+降低高音 - Treble Reduce
+
+![image.png](https://s1.vika.cn/space/2025/02/04/ab11e5925b53406c90249dc971b9eb29)

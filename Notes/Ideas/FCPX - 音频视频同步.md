@@ -1,7 +1,7 @@
 ---
 up: 
 related:
-  - "[[FCPX - Ali Abdaal 教程]]"
+  - "[[FCPX-Ali Abdaal 教程]]"
 created: 2025-01-24
 tags:
   - domain/media

@@ -4,6 +4,7 @@ up:
 related:
   - "[[DAX-表函数]]"
   - "[[DAX-迭代函数]]"
+  - "[[DAX 权威指南 - CH07 使用迭代函数Calculate组合]]"
 created: 2025-01-12
 tags:
   - domain/powerbi
