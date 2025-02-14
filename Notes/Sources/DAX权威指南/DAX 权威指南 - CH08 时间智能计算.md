@@ -63,7 +63,7 @@ finished:
 
 #### 混合时间智能函数
 
-- 本质上，只写一个字段是语法糖
+- 本质上，只写一个字段是 [[DAX-语法糖]]
 	- 完整版本第一个参数需要一个表
 
 ![400](https://s1.vika.cn/space/2024/03/28/ab1cebca6be04771aa77c5cb4cf79b17)
@@ -78,11 +78,11 @@ finished:
 ![400](https://s1.vika.cn/space/2024/03/28/b14100871b6c4e1ea0aae4b3cbeff13d)
 #### 嵌套时间智能的正确顺序(日期表不完整)
 
-
+[[DAX-Case-移动年度总计的第一天]]
 
 ## 理解半累加计算
 
-### LastDate & LastNonBlank
+[[DAX-LastDate & LastNonBlank]]
 
 
 

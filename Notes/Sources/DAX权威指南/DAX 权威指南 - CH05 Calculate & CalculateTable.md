@@ -30,7 +30,7 @@ ch: "05"
 		- **不想覆盖**现有的筛选器怎么办：[[DAX-KeepFilters]]
 	- 复杂筛选参数
 		- **单表单列**  `Sales[Net Price] >= 10 && Sales[Net Price] <= 100)`
-		- **单表多列** `Sales[Quantity] ** Sales[Net Price] >= 1000)`
+		- **单表多列** `Sales[Quantity] * Sales[Net Price] >= 1000)`
 			- 多条件已经和书上描述的不太一样了：[[DAX-Calcualte-多条件筛选(21-03之后)]]
 		- **多表多列** ：还是只能使用 CrossJoin 处理
 	- **Calculate 计值顺序**

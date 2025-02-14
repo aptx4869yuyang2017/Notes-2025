@@ -8,18 +8,22 @@ up:
 related: 
 ch: "14"
 ---
-![00774ab4e9e9476ea1498ec72fc54a85|313](https://s1.vika.cn/space/2024/06/23/00774ab4e9e9476ea1498ec72fc54a85)
+> [!important]- MOC
+>  ![00774ab4e9e9476ea1498ec72fc54a85|313](https://s1.vika.cn/space/2024/06/23/00774ab4e9e9476ea1498ec72fc54a85)
 ![e8ebcc039d92425ba2bec53872051625|316](https://s1.vika.cn/space/2024/06/23/e8ebcc039d92425ba2bec53872051625)
 
 ## 使用计算列创建物理关系
 
 
-### 使用计算列创建物理关系
 
-[如何处理基于多列的关系](https://garrulous-ambert-cda.notion.site/DAX-54efd5242f0d4e538d82e68009a4c672?pvs=4)
-[基于范围创建关系](https://www.notion.so/DAX-7aa4abe3fc1246d5be742bf8c3ff45ba?pvs=4)
+[[DAX-基于多列的关系]]
+[[DAX-基于范围创建关系]]
+
 
 ## 使用虚拟关系
+
+
+[[DAX-虚拟关系]]
 
 
 ## 理解 DAX 中的物理关系

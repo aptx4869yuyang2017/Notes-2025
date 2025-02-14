@@ -24,7 +24,7 @@ tags:
 
 
 
-[[DAX-Case-Top类别子类别]]
+[[DAX-Case-Top类别子类别-超过均值两倍]]
 
 
 

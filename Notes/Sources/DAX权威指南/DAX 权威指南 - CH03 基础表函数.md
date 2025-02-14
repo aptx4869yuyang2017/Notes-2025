@@ -26,12 +26,12 @@ finished: 2024-03-20
 		- 使用 Evaluate 查询表
 			- [[DAX 权威指南 - CH13 写查询]] 会深入介绍
 		- 返回单一值的表函数可以被当作标量
-			- [[DAX-HasOneValue & SelectedValue & ConcatenateX]]
+			- [[DAX-Case-如何拼接展示内容]]
 
 - 常见基础表函数
 	- [[DAX-Filter]]  迭代表，减少筛选数据
 	- [[DAX-All & AllExcept]] 删除筛选状态
-		- [[DAX-Case-Top类别子类别]]
+		- [[DAX-Case-Top类别子类别-超过均值两倍]]
 	- [[DAX-Values & Distinct]]  获取唯一值表的两种函数
 	- [[DAX-AllNoBlankRow]] All 函数的 Distinct 版本
 	- [[DAX-AllSelected]] 能被切片器影响的 All

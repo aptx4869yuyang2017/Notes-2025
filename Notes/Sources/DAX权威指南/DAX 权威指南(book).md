@@ -29,6 +29,8 @@ name: The Definitive Guide to DAX
 - [[DAX 权威指南 - CH14 DAX高级概念]]
 -  [[DAX 权威指南 - CH15 高级关系]]
 - [[DAX 权威指南 - CH16 DAX高级计算]]
+
+
 - [[DAX 权威指南 - CH17 DAX引擎]]
 - [[DAX 权威指南 - CH18 优化 VertiPaq]]
 - [[DAX 权威指南 - CH19 分析DAX查询计划]]

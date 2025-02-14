@@ -23,7 +23,7 @@ ch: "13"
 - SummarizeColumns
 	- Ignore 可以带上空行
 - TopN
-- Generate / GenerateAll
+- [[DAX-Generate & GenerateAll]]
 	- 使用第一个表 对第二个表进行筛选
 	- GenerateAll 不会跳过没有结果的空行
 - IsOnOrAfter

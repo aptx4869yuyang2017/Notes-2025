@@ -8,12 +8,8 @@ tags:
 # 像程序员系列
 
 - [[【像程序员一样使用PowerBI】-TMDL批量编辑代码]]
-- 【像程序员一样使用PowerBI】- PowerBI 也可以用 Git 来管理？
-	- [World Class Power BI SOURCE CONTROL: End-to-End!!! - YouTube](https://youtu.be/IIvMkvpluVY?si=YoZ7uQjeF-NcqdUp)
-	- 备选封面
-	- [Lelouch Vi Britannia \| Danbooru](https://danbooru.donmai.us/posts?page=7&tags=Lelouch)
-	- https://gbf.wiki/Lelouch_Lamperouge#/media/File:Npc_zoom_3040219000_01.png
-	- https://64.media.tumblr.com/cbbc8d59665b3b25cf355d2976b0887a/tumblr_inline_o6k7c563EF1u4y9h4_500.jpg
+- [[【像程序员一样使用PowerBI】- PowerBI 也可以用 Git 来管理？]]
+
 
 
 
@@ -44,6 +40,13 @@ tags:
 - [[怎么使用 LOD 来实现 DAX-All 函数的功能]]
 	- 简单来看是使用一种工具实现另外一种工具的功能
 	- 深入看是深度剖析两种工具的不同思维
+- Tableau 内功驱动 PowerBI 绝技？我成鸠摩智了？（视觉计算）
+	- ![image.png|297](https://s1.vika.cn/space/2025/02/08/b4515c13cb5a4e8295669d502ebbffec)
+
+- 什么是解决问题的能力？风清扬的教诲
+	- 不要尝试套招
+	- 尝试解决问题
+- BI领域的九阳神功？九阴真经？
 
 
 
@@ -52,7 +55,9 @@ tags:
 https://www.yuque.com/g/yuyang-qcdfo/kc8zkq/hovef84lkfqin3z5/collaborator/join?token=TZU1ZZaIoet42cuu&source=doc_collaborator# 《【PowerBI】趋势图高亮周末节日及同比周末节日》
 
 
+# 思考
 
+- 到底学习一门技术到底和武林秘籍有什么关系
 
 # AI 相关
 
@@ -73,7 +78,7 @@ https://www.yuque.com/g/yuyang-qcdfo/kc8zkq/hovef84lkfqin3z5/collaborator/join?t
 	- 
 - 整活-Tableau 连接 PowerBI 语意模型
 - Powerbi 自助分析 [Pivot Tables in Power BI !? - YouTube](https://www.youtube.com/watch?v=Og8gkM7lRQo)
-	- 
+- PowerBI 线性回归分析 [Implementing linear regression in Power BI - YouTube](https://www.youtube.com/watch?v=EmsR8lc7w78)
 
 
 
