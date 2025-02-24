@@ -8,7 +8,7 @@ tags:
 # 像程序员系列
 
 - [[【像程序员一样使用PowerBI】-TMDL批量编辑代码]]
-- [[【像程序员一样使用PowerBI】- PowerBI 也可以用 Git 来管理？]]
+- [[【像程序员一样使用PowerBI】高效协作，轻松回滚：PowerBI 与 Git 的完美结合]]
 
 
 
@@ -69,6 +69,9 @@ https://www.yuque.com/g/yuyang-qcdfo/kc8zkq/hovef84lkfqin3z5/collaborator/join?t
 
 - 横向测评 ChatGPT / DeepSeek  写 DAX 的能力
 
+# 基础功能
+
+[[Output-三种方式实现帕累托分析]]
 
 
 # 想法
