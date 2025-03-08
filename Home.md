@@ -2,12 +2,21 @@
 
 # 输入
 
-[[行业分析&个股投资(course)]]
-
-
+- [[行业分析&个股投资(course)]]
+- [Data Goblins](https://data-goblins.com/articles)
+- [BI Bites](https://nastengraph.substack.com/)
 
 # 输出
 
-[[【像程序员一样使用PowerBI】高效协作，轻松回滚：PowerBI 与 Git 的完美结合]]
+- [x] [[【Output】PowerBI + Git + GitKraken：轻松可视化版本管理]]
 [[Output-三种方式实现帕累托分析]]
-[[Output-【哪吒2】票房预测的补充]]
+- [x] [[Output-【哪吒2】票房预测的补充]]
+
+
+# ToDo
+
+- Whisper 输出繁体解决
+- [x] 对比 三种 PBIP 差异
+- PBIP 常用场景
+
+    

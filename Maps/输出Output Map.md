@@ -1,5 +1,6 @@
 ---
-up: []
+up:
+  - "[[Home]]"
 related: 
 created: 2025-01-19
 tags:
@@ -7,8 +8,13 @@ tags:
 ---
 # 像程序员系列
 
-- [[【像程序员一样使用PowerBI】-TMDL批量编辑代码]]
-- [[【像程序员一样使用PowerBI】高效协作，轻松回滚：PowerBI 与 Git 的完美结合]]
+- [[【Output】【像程序员一样使用PowerBI】-TMDL批量编辑代码]]
+- Git 系列
+	- [[【Output】PowerBI + Git + GitKraken：轻松可视化版本管理]]
+	- [[【Output】PowerBI + Git：解锁敏捷开发密码]]
+		- **集体所有权**消除个人英雄主义
+
+
 
 
 

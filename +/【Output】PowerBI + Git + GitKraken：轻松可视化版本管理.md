@@ -1,9 +1,11 @@
 ---
 up:
   - "[[输出Output Map]]"
-related: 
+related:
+  - "[[PowerBI MOC]]"
 created: 2025-02-14
 tags:
+  - domain/powerbi
 ---
 
 # 参考教程
@@ -14,6 +16,14 @@ tags:
 文稿主要参考这篇
 [Title Unavailable \| Site Unreachable](https://www.youtube.com/watch?v=PDI3k4G4Dpk&t=18s)
 
+- [[PowerBI PBIP 相关更新]]
+
+# 大纲
+
+[Excalidraw ](https://excalidraw.com/#json=5Eq483QG2U2phXw4LWOQU,iKCwVeuwK2T1ZATQo2O_Pw)
+
+
+
 # 备选封面
 
 
@@ -22,10 +32,12 @@ tags:
 - https://gbf.wiki/Lelouch_Lamperouge#/media/File:Npc_zoom_3040219000_01.png
 - https://64.media.tumblr.com/cbbc8d59665b3b25cf355d2976b0887a/tumblr_inline_o6k7c563EF1u4y9h4_500.jpg 这张皇帝白衣最帅
 
-![image.png](https://s1.vika.cn/space/2025/02/13/b0276d2061704f79a023ec2e0ab0cb9c)
-![导出02.png|352](https://s1.vika.cn/space/2025/02/17/c15e8c87211540db8d11c87e5bcce5b9)
+![image.png|241](https://s1.vika.cn/space/2025/02/13/b0276d2061704f79a023ec2e0ab0cb9c)
+![导出02.png|292](https://s1.vika.cn/space/2025/02/17/c15e8c87211540db8d11c87e5bcce5b9)
 
-![image.png](https://s1.vika.cn/space/2025/02/18/5d32ae29825d4a7babba9340a873b430)
+![image.png|330](https://s1.vika.cn/space/2025/02/24/f3ea4f10f7d84e42a6c7ca39e64407a0)
+
+![image.png|283](https://s1.vika.cn/space/2025/02/18/5d32ae29825d4a7babba9340a873b430)
 
 
 # Intro
@@ -42,6 +54,12 @@ tags:
 
 
 ---
+
+目录：
+- PBIP 的
+
+
+
 
 大家好，我是禹洋，欢迎点开这个视频。我立志每周都会上传新的视频，分享 BI 与 数据可视化的领域的技巧与最佳实践，感兴趣的朋友可以帮忙点个关注，方便收到后续更新。
 
@@ -96,3 +114,21 @@ PowerBI 想走出一条完全不一样的道路
 # 发布与 Github 集成
 
 
+
+
+
+# 文稿
+
+
+
+这是一个想要带你告别手工管理Power BI版本的视频。我会用草履虫都能听懂的方式 给您介绍 Git 是如何管理版本变化的，看看它和手工管理有什么区别。我们会用简单的图形化工具GitKraken，通过操作我们  熟悉的txt文件，演示Git最最基础 也是最最常用的两个功能：**版本创建**和**版本回滚**。
+
+最后我们还是会回归到Power BI的主题，看看最新的Power BI项目格式是如何组织文件，完美适配Git这个版本管理工具的。
+
+为了方便观看，我会把章节时间点放在置顶评论区，欢迎跳转到感兴趣的部分。视频开始前，别忘了**一键三连**，也欢迎关注本频道，希望能和您一起共同成长！
+
+
+我们这次视频的演示就这么多，刚开始使用 Git 来管理 PowerBI 的版本， 这些基础操作足够简单，也足够用了。后续我们还会介绍 如何使用 Git 进行多人协作，以及如何 将 我们本地的文件 发布到服务端，感兴趣的朋友可以先点个关注，方便后续第一时间收到更新。
+
+
+以上就是本期视频的所有内容，如果感觉本对您有帮助的话，欢迎点赞投币与分享。当然更欢迎您的留言交流，让我们下个视频再见。
