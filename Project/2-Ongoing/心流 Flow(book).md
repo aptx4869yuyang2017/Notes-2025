@@ -2,7 +2,7 @@
 up:
   - "[[FlowCreation MOC]]"
 related:
-  - "[[Mihaly Csikszentmihalyi  米哈里 契克森米哈赖]]"
+  - "[[米哈里 契克森米哈赖 Mihaly Csikszentmihalyi]]"
 year: 1990
 created: 2024-01-13
 tags:

@@ -1,8 +1,9 @@
 ---
 up: 
 related: 
-created: {{date}}
+created: {{date}} 
 tags:
   - people
-dates:
+dates: 
+short:
 ---

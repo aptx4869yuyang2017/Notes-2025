@@ -3,7 +3,7 @@ up:
 related: 
 created: 2024-01-26
 tags:
-  - domain/ecomoney
+  - domain/economy
 type: "[[Course]]"
 finished: 
 URL: https://www.khanacademy.org/economics-finance-domain/macroeconomics
@@ -16,9 +16,10 @@ aliases:
 
 
 
-[[MacroEcon-CH02-经济指标与商业循环]]
-[[MacroEcon-CH03-国民收入与价格决定]]
-[[MacroEcon-CH04-金融部门 货币政策]]
-[[MacroEcon-CH05-稳定政策的长期结果]]
-[[MacroEcon-CH06-开放经济：国际贸易和金融]]
-[[MacroEcon-CH07-凯恩斯主义方法和IS-LM]]
+- [[MacroEcon-CH02-经济指标与商业循环]]
+- ![[MacroEcon-CH03-国民收入与价格决定]]
+- ![[MacroEcon-CH04-金融部门 货币政策]]
+- ![[MacroEcon-CH05-稳定政策的长期结果]]
+- ![[MacroEcon-CH06-开放经济：国际贸易和金融]]
+- ![[MacroEcon-CH07-凯恩斯主义方法和 IS-LM]]
+- [[MacroEcon-CH08-当代宏观经济学问题]]

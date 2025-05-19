@@ -1,9 +1,10 @@
 ---
 up: 
-related: 
+related:
+  - "[[货币银行经济学-Module 1 阅读材料 - Allyn Young]]"
 created: 2024-10-15
 tags:
-  - domain/ecomoney
+  - domain/economy
 aliases:
   - 劣币驱逐良币
 ---

@@ -8,9 +8,15 @@ tags:
 ---
 # 像程序员系列
 
+<<<<<<< HEAD
+- [[Output-202501-TMDL批量编辑代码]]
+- Git 系列
+	- [[Output-202504-PowerBI + Git + GitKraken：轻松可视化版本管理]]
+=======
 - [[【Output】【像程序员一样使用PowerBI】-TMDL批量编辑代码]]
 - Git 系列
 	- [[【Output】PowerBI + Git + GitKraken：轻松可视化版本管理]]
+>>>>>>> origin/main
 	- [[【Output】PowerBI + Git：解锁敏捷开发密码]]
 		- **集体所有权**消除个人英雄主义
 

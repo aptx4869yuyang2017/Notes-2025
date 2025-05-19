@@ -14,6 +14,7 @@ finished:
 > [!map]+ Podcast
 > ```dataview
 > table year, created
-> where up = [[面基(podcast)]]
+> where contains(up, [[面基(podcast)]])
 > sort created
 > ```
+

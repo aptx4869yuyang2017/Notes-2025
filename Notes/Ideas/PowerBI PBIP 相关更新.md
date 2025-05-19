@@ -1,0 +1,13 @@
+- 深入了解 Power BI Desktop 的 TMDL 视图 25-01-16
+	- [Deep dive into TMDL view for Power BI Desktop (Preview) \| Microsoft Power BI Blog \| Microsoft Power BI](https://powerbi.microsoft.com/en-us/blog/deep-dive-into-tmdl-view-for-power-bi-desktop-preview/)
+- 正式发布表格模型定义语言 （TMDL）24-08-02
+	- [Announcing general availability of Tabular Model Definition Language (TMDL) \| Microsoft Power BI Blog \| Microsoft Power BI](https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-of-tabular-model-definition-language-tmdl/)
+- Power BI 增强报表格式 （PBIR）（预览版）24-06-13
+	- [Power BI enhanced report format (PBIR) in Power BI Desktop developer mode (Preview) \| Microsoft Power BI Blog \| Microsoft Power BI](https://powerbi.microsoft.com/en-us/blog/power-bi-enhanced-report-format-pbir-in-power-bi-desktop-developer-mode-preview/?cdn=disable)
+- Power BI Desktop 开发人员模式下的 TMDL（预览版）24-02-20
+	- [TMDL in Power BI Desktop developer mode (Preview) \| Microsoft Power BI Blog \| Microsoft Power BI](https://powerbi.microsoft.com/en-us/blog/tmdl-in-power-bi-desktop-developer-mode-preview/)
+- 深入了解 Power BI Desktop 开发人员模式（预览版）23-06-15
+	- [Deep dive into Power BI Desktop Developer Mode (Preview) \| Microsoft Power BI Blog \| Microsoft Power BI](https://powerbi.microsoft.com/en-us/blog/deep-dive-into-power-bi-desktop-developer-mode-preview/)
+
+-  宣布推出表格模型定义语言 （TMDL） 的公共预览版
+	- [Announcing public preview of the Tabular Model Definition Language (TMDL) \| Microsoft Power BI Blog \| Microsoft Power BI](https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-the-tabular-model-definition-language-tmdl/)
