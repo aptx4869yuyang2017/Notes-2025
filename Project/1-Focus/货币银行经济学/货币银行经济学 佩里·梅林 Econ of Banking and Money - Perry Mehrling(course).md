@@ -1,6 +1,5 @@
 ---
-up:
-  - "[[货币银行经济学 佩里·梅林 Econ of Banking and Money - Perry Mehrling(course)]]"
+up: []
 related: 
 created: 2024-08-07
 tags:

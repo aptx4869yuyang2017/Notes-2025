@@ -7,7 +7,7 @@ tags:
   - map
   - domain/economy
 ---
-> [!map]+ Book
+> [!map]+ People
 > ```dataview
 > table dates
 > where contains(up, this.file.link) and !contains(file.name, "Template")
