@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Fin 金融工具 MOC]]"
+  - "[[Fin Tools 金融工具 MOC]]"
 related:
   - "[[货币银行经济学-CH03 金钱&国家 - 以美国为例]]"
 created: 2025-05-18

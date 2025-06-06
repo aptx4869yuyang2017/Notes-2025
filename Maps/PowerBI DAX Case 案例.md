@@ -1,6 +1,7 @@
 ---
 up:
   - "[[PowerBI MOC]]"
+  - "[[PowerBI DAX Function 函数]]"
 related: 
 created: 2024-12-08
 ---

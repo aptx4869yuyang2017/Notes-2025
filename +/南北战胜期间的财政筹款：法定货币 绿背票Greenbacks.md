@@ -1,9 +1,9 @@
 ---
 up:
-  - "[[Fin 金融工具 MOC]]"
+  - "[[Fin Tools 金融工具 MOC]]"
 related: 
 created: 2025-05-18
-tags:
+tags: 
 ---
 #### Legal Tenders  /   Greenbacks  法定货币/绿背票
 

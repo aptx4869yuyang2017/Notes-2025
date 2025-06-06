@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Fin 金融机构 MOC]]"
+  - "[[Fin Org 金融机构 MOC]]"
 related: 
 created: 2025-05-19
 tags:

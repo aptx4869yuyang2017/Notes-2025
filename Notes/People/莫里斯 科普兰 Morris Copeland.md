@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Econ 经济学人物 MOC]]"
+  - "[[Econ People 经济学人物 MOC]]"
 related:
   - "[[货币银行经济学-CH04-金钱的宏观&微观视角]]"
 created: 2025-05-20

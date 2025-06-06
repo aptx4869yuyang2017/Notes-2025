@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Fin 金融工具 MOC]]"
+  - "[[Fin Tools 金融工具 MOC]]"
 related:
   - "[[银行的账面价值如何计算]]"
 created: 2025-05-11

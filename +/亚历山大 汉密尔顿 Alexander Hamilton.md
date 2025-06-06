@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Econ 经济学人物 MOC]]"
+  - "[[Econ People 经济学人物 MOC]]"
 related: 
 created: 2025-05-14
 tags:

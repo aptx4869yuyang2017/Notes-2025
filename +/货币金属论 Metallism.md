@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Econ 经济学理论 MOC]]"
+  - "[[Econ Theory 经济学理论 MOC]]"
 related:
   - "[[货币体系的两大原则：纪律性与弹性]]"
 created: 2025-05-17

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Fin 金融工具 MOC]]"
+  - "[[Fin Tools 金融工具 MOC]]"
 related:
   - "[[商品货币 vs 法币 Commodity money vs. Fiat money]]"
 created: 2025-05-14

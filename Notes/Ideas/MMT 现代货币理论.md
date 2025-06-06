@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Econ 经济学流派 MOC]]"
+  - "[[Econ School 经济学流派 MOC]]"
 related: 
 created: 2025-05-02
 tags:

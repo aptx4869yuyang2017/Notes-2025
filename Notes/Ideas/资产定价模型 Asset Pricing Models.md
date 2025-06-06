@@ -1,6 +1,8 @@
 ---
-up: 
-related: []
+up:
+  - "[[Econ Model 经济学模型 MOC]]"
+related:
+  - "[[财务报表分析与证券估值(book)]]"
 created: 2025-04-17
 tags:
   - domain/investment

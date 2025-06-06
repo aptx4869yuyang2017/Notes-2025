@@ -1,7 +1,7 @@
 ---
 up: 
 related: 
-year: 
+year: 2000
 created: 2025-04-10
 tags:
   - domain/investment
@@ -9,7 +9,11 @@ type: "[[Book📚]]"
 ch: "00"
 finished: 
 aliases:
+  - Financial Statement Analysis and Security Valuation
 ---
+![image.png|185](https://s1.vika.cn/space/2025/06/06/fb9e5a01080b4d0d8d8955fc5bca37ff)
+
+[财务报表分析与证券估值 (原书第5版) (豆瓣)](https://book.douban.com/subject/26988277/)
 # 视频
 
 [荐书丨《财务报表分析与证券估值》P2\_乘数法市场法股票估值，简单快速上手的估值模型\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV19g411e7vp?spm_id_from=333.788.videopod.sections&vd_source=6d4ef5f8b8b73d69ea854cb9321a50ac)
