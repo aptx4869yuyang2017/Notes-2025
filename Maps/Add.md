@@ -30,7 +30,7 @@ When cooler thoughts prevail, you can better prioritize. Cool?
 > 
 > SORT file.cday desc
 > 
-> LIMIT 20
+> LIMIT 50
 > ```
 
 > [!Notes]- This data view 🔬 only renders in the downloadable version.

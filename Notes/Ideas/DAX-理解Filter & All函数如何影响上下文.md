@@ -13,7 +13,7 @@ created: 2024-12-08
 
 ### Filter 如何影响
 
-![500](https://s1.vika.cn/space/2024/03/21/80acd231c32d4b6d80cb4205efaf07f1)
+![|490](https://s1.vika.cn/space/2024/03/21/80acd231c32d4b6d80cb4205efaf07f1)
 
 ![6d2fdb37e6304723beb0eafdc9620e92|491](https://s1.vika.cn/space/2024/12/08/6d2fdb37e6304723beb0eafdc9620e92)
 
@@ -26,9 +26,9 @@ created: 2024-12-08
 
 ### All
 
-![500](https://s1.vika.cn/space/2024/03/21/29d7b50efc2a4c5b876ec8dadc3f04c0)
+![|477](https://s1.vika.cn/space/2024/03/21/29d7b50efc2a4c5b876ec8dadc3f04c0)
 
-![382ba9b2448c44f296aa97672f5ffca1|556](https://s1.vika.cn/space/2024/12/08/382ba9b2448c44f296aa97672f5ffca1)
+![382ba9b2448c44f296aa97672f5ffca1|471](https://s1.vika.cn/space/2024/12/08/382ba9b2448c44f296aa97672f5ffca1)
 
 [[DAX-All & AllExcept]]
 

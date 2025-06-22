@@ -1,6 +1,5 @@
 ---
-up:
-  - "[[Data MOC]]"
+up: []
 related:
   - "[[DAX 权威指南(book)]]"
   - "[[Optimizing DAX 优化DAX(book)]]"

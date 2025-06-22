@@ -108,3 +108,12 @@ SUMX (
 - 遍历用户，根据最大年销售额，保留 具体 Segments 下的所有用户
 - 根据客户list ，计算 Sales Amount
 
+DAX-Case-动态分组-客户特定区间的消费额
+
+### 对比静态&动态分组
+![image.png|363](https://s1.vika.cn/space/2025/06/10/4751be394b6c4ff5ba66891573bb0d7b)
+- 静态分组是给 品牌价格区间分组
+![image.png|345](https://s1.vika.cn/space/2025/06/10/0dc13ddcdb8c4203a3d4f2c57e65beb8)
+- 动态分组是 对客户一段时间区间内的消费额度分组
+
+![image.png|469](https://s1.vika.cn/space/2025/06/10/dc05e452ec0e4c09b42b4240c46b64af)

@@ -47,6 +47,7 @@ tags:
 
 [[DAX 权威指南 - CH15 高级关系]]
 
+### Values 带来的循环依赖
 
 ![image.png](https://s1.vika.cn/space/2025/02/10/bccf5bb6bed8495f8bc889bae1e23025)
 
@@ -60,17 +61,20 @@ tags:
 >  注意 Calculate 带来的 All
 >  注意 SelectedValue 带来的 All
 
+### 注意 Calculate 也会产生隐藏的循环依赖
 
 ![image.png](https://s1.vika.cn/space/2025/02/10/2a9bd12e7d38489395dcce9d99d67c8f)
 ![image.png](https://s1.vika.cn/space/2025/02/10/8d51c8e8212447258cf0e05b431dfb2d)
 ![image.png](https://s1.vika.cn/space/2025/02/10/01d5768ed9e44ff89e7bc7313e3f96f3)
 
 
-
+### SelectedValue 隐藏的 Values 带来的循环依赖
 
 
 ![image.png](https://s1.vika.cn/space/2025/02/10/828d3c0ea5eb417fbd02b26f16f48d2d)
 ![image.png](https://s1.vika.cn/space/2025/02/10/60d694814d504d0db6d1160b35706720)
+
+
 ![image.png](https://s1.vika.cn/space/2025/02/10/6fc259c1d2404e37b27e554ca4ee2061)
 ![image.png](https://s1.vika.cn/space/2025/02/10/7c6fa76f634842efa1b963cb00eb11f1)
 

@@ -5,7 +5,7 @@ related:
   - "[[回购协议 Repo RP]]"
   - "[[联邦基金市场 Federal Funds Market]]"
   - "[[货币银行经济学-CH07 回购 Repo 延期结算]]"
-  - "[[Broker vs Dealer 经纪商 vs 交易商]]"
+  - "[[Broker vs Dealer 经纪商 Broker vs 交易商 Dealer]]"
 created: 2025-05-31
 tags:
   - domain/economy
@@ -29,7 +29,7 @@ tags:
 
 ### 参与主体不同
 
-- **联邦基金市场**：[[Broker vs Dealer 经纪商 vs 交易商]]
+- **联邦基金市场**：[[Broker vs Dealer 经纪商 Broker vs 交易商 Dealer]]
   - 仅限银行间交易（需美联储会员资格）
   - 以经纪模式为主（如HSBC充当中介）
 - **回购市场**：

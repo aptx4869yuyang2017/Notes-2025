@@ -14,16 +14,16 @@ tags:
 
 **计算每个产品颜色下的产品数量**
 
-![](https://s1.vika.cn/space/2025/01/12/041dc21c226a430ba2aaece8c51cd5df)
+![|465](https://s1.vika.cn/space/2025/01/12/041dc21c226a430ba2aaece8c51cd5df)
 
 ⬆️ 注意这是个表
 
-![](https://s1.vika.cn/space/2025/01/12/52232b1b6d2e4b9eb60b634665dfb474)
+![|585](https://s1.vika.cn/space/2025/01/12/52232b1b6d2e4b9eb60b634665dfb474)
 
 
 **SelectColumns 可以只返回原始表中选中的列**
 
-![](https://s1.vika.cn/space/2025/01/12/5a43782d36224886935460855bded5e6)
+![|625](https://s1.vika.cn/space/2025/01/12/5a43782d36224886935460855bded5e6)
 
 ---
 

@@ -1,6 +1,5 @@
 ---
-up:
-  - "[[Data MOC]]"
+up: []
 related: 
 tags: 
 type: "[[Streaming]]"

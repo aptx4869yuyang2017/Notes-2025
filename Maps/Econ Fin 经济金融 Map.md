@@ -15,9 +15,14 @@ tags:
 - [[Econ Model 经济学模型 MOC]]
 	- 模型是对世界的简化和抽象
 	- 统计信息，本身也是抽象的一环，比如GDP统计
-
+- [[Fin Concept 金融概念]]
+	- 可以抽象一个名字的
 - [[Econ Fin Idea 经济金融观点  MOC]]
+	- 写成句子的
+
+
 - [[Fin Tools 金融工具 MOC]]
 - [[Fin Org 金融机构 MOC]]
 - [[Fin Market 金融市场 MOC]]
 - [[Fin Op 金融操作 MOC]]
+- [[Fin Data 金融数据 MOC]]

@@ -1,6 +1,5 @@
 ---
-up:
-  - "[[Data MOC]]"
+up: []
 related: 
 year: 2020
 created: 2024-01-05

@@ -5,7 +5,7 @@ created: 2025-05-16
 tags: 
 dates: 1878 - 1968
 ---
-[[1878年 布兰德-艾利森法案]]
+[[1878年 美国 布兰德-艾利森法案]]
 
 
 [Title Unavailable \| Site Unreachable](https://en.wikipedia.org/wiki/Silver_certificate_(United_States)#cite_note-5)
