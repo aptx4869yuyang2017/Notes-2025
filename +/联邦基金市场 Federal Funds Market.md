@@ -5,7 +5,7 @@ related:
   - "[[货币银行经济学-CH06 联邦基金：最终清算]]"
 created: 2025-05-25
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 

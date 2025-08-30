@@ -1,11 +1,11 @@
 ---
 up:
   - "[[可汗学院-Macroeconomics]]"
-related: 
+related:
 created: 2025-05-07
-tags: 
+tags:
 type: "[[Class]]"
-finished: 
+finished:
 Section:
 ---
 2008年金融危机和美国日益加剧的收入不平等趋势是21世纪的两个主要经济问题。深入研究这两个案例，了解我们如何运用对市场因素和经济政策的理解来应对或防止此类情况的发生。

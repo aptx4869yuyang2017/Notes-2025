@@ -5,7 +5,7 @@ related:
   - "[[商品货币 vs 法币 Commodity money vs. Fiat money]]"
 created: 2025-05-14
 tags:
-  - domain/economy
+  - domain/econ-fin
 dates: 1862 - 1879
 ---
 

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[PowerBI MOC]]"
+  - "[[Power BI MOC]]"
 related: 
 created: 2025-02-09
 tags:

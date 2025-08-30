@@ -5,7 +5,7 @@ related:
 year: 2020
 created: 2025-05-30
 tags:
-  - domain/economy
+  - domain/econ-fin
 type: "[[Book📚]]"
 ch: "00"
 finished: 

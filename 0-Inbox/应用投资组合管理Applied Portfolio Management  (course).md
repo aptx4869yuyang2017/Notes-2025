@@ -1,8 +1,9 @@
 ---
 up: 
 related: 
-created: 
-tags: 
+created: 2025-08-13
+tags:
+  - domain/econ-fin
 type: "[[Course]]"
 finished:
 ---

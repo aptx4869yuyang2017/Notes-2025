@@ -6,7 +6,7 @@ related:
   - "[[Treynor 特雷诺模型 做市商模型]]"
 created: 2025-06-11
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 ![image.png|537](https://s1.vika.cn/space/2025/06/10/4466a52d834546bb83f318a4cd03634c)

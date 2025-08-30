@@ -1,6 +1,8 @@
 ---
-up: 
-related: 
+up:
+  - "[[Math Concept 数学概念 MOC]]"
+related:
+  - "[[通俗统计学原理入门]]"
 created: 2025-03-13
 tags:
   - domain/stat

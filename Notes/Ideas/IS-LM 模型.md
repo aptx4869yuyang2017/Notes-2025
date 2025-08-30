@@ -1,13 +1,13 @@
 ---
 up:
-  - "[[Econ Model 经济学模型 MOC]]"
+  - "[[Econ Fin Model 经济金融模型 MOC]]"
 related:
   - "[[MacroEcon-CH07-凯恩斯主义方法和 IS-LM]]"
   - "[[凯恩斯 John Maynard Keynes]]"
   - "[[约翰 希克斯 John Hicks]]"
 created: 2025-05-05
 tags:
-  - domain/economy
+  - domain/econ-fin
 dates: "1937"
 ---
 凯恩斯宏观经济理论的一种数学表示。在 **20 世纪 40 年代到 70 年代中期**，它是宏观经济学分析的主要框架

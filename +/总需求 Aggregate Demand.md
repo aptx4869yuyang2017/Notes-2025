@@ -1,10 +1,11 @@
 ---
-up: 
+up:
+  - "[[Econ Fin Concept 经济金融概念]]"
 related:
   - "[[MacroEcon-CH03-国民收入与价格决定]]"
 created: 2025-05-01
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 ## Lesson 1 Aggregate demand 总需求
 

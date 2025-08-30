@@ -1,22 +1,6 @@
 
-# 面试
 
-- [ ] 多对多关系的优化
-	- [ ] 
-- [x] 聚合功能
-	- [x] 三种聚合方式
-		- [ ] PQ
-		- [ ] DAX
-		- [ ] 数据源中
-	- [ ] Dual 模式
-	- [ ] 执行优先级
-
-
-
-
-
-
-# 输入
+# 经济金融学习
 
 
 - [x] [[货币银行经济学-CH03 金钱&国家 - 以美国为例]]
@@ -30,25 +14,26 @@
 - [x] [[货币银行经济学-CH09 白芝浩所知道的世界]]
 - [x] [[货币银行经济学-CH10 交易商和流动性证券市场]]
 - [x] [[货币银行经济学-CH11 银行和流动性市场]]
-- [ ] [[货币银行经济学-CH12 最后贷款人]]
-- [ ] [[货币银行经济学-CH13 货币究竟是什么]]
+- [x] [[货币银行经济学-CH12 最后贷款人]]
+- [x] [[货币银行经济学-CH13 货币究竟是什么]]
+- [x] [[货币银行经济学-CH14 国际货币体系变迁]]
+- [x] [[货币银行经济学-CH15 金本位-银行 全球流动性]]
+- [x] [[货币银行经济学-CH16 外汇]]
+- [x] [[货币银行经济学-CH17 直接与间接金融]]
+- [x] [[货币银行经济学-CH18 远期合约与期货]]
+- [ ] [[货币银行经济学-CH19 利率互换]]
 
 
 
 - [[行业分析&个股投资(course)]]
-- [Data Goblins](https://data-goblins.com/articles)
-- [BI Bites](https://nastengraph.substack.com/)
-
-- [ ] [[开发 PowerBI Customer Visual]]
-
-- python 投资组合优化与绩效评价 [python投资组合优化与绩效评价-理论与技术\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1cQ4y1U7Qd/?spm_id_from=333.337.search-card.all.click&vd_source=6d4ef5f8b8b73d69ea854cb9321a50ac)
-- Pybroker
-
-- 统计基础 [[通俗统计学原理入门]]
 
 
 
-# ToDo
+
+
+
+
+# 投资框架
 
 
 
@@ -58,11 +43,13 @@
 
 - [ ] [公司股本变动-巨潮资讯](https://akshare.akfamily.xyz/data/stock/stock.html#id144)
 
+[[Python 投资组合优化与绩效评价]]
 
+- 统计基础 [[通俗统计学原理入门]]
 
 # 指标计算
 
-- [[最大回撤的计算]]
+
 
 
 **宏观指标**
@@ -85,7 +72,7 @@
 - [x] [[Output-202505-PowerBI + Trea + Claude 自动化仪表板生成]]
 
 [[Output-三种方式实现帕累托分析]]
-
+- [[最大回撤的计算]]
 
 - **IF 性能**
 	- DAX
@@ -108,24 +95,23 @@
 	- 定投赚钱的真相：从数据到策略的全方位测试
 
 
+# BI
 
-=======
-- [[行业分析&个股投资(course)]]
+
 - [Data Goblins](https://data-goblins.com/articles)
 - [BI Bites](https://nastengraph.substack.com/)
 
-# 输出
-
-- [x] [[【Output】PowerBI + Git + GitKraken：轻松可视化版本管理]]
-[[Output-三种方式实现帕累托分析]]
-- [x] [[Output-【哪吒2】票房预测的补充 1]]
+> [!NOTE]- PowerBI
+> Todo
 
 
-# ToDo
 
-- Whisper 输出繁体解决
-- [x] 对比 三种 PBIP 差异
-- PBIP 常用场景
+# 笔记统计
 
-    
->>>>>>> origin/main
+```dataview
+TABLE length(rows) AS "月度笔记数量"
+WHERE file.name
+GROUP BY dateformat(file.cday, "yyyy-MM") AS 月份
+SORT rows[0].file.cday DESC
+```
+

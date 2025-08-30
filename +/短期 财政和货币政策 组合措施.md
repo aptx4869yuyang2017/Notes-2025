@@ -4,7 +4,7 @@ related:
   - "[[MacroEcon-CH05-稳定政策的长期结果]]"
 created: 2025-05-05
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 

@@ -6,11 +6,14 @@ related:
   - "[[货币银行经济学-CH08 欧洲美元 平行结算]]"
 created: 2025-06-01
 tags:
-  - domain/economy
+  - domain/econ-fin
 aliases:
   - 远期利率协议（FRA）的资产负债表视角分析
   - Forward Rate Agreement
 ---
+
+> 注：**FRA（远期利率协议）是银行间标准化远期合约**
+
 # 一般解释
 
 ![image.png](https://s1.vika.cn/space/2025/06/20/284328753b054569a63f3a00272756bd)

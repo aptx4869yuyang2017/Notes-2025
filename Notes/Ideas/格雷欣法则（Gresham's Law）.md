@@ -4,7 +4,7 @@ related:
   - "[[货币银行经济学-Module 1 阅读材料 - Allyn Young]]"
 created: 2024-10-15
 tags:
-  - domain/economy
+  - domain/econ-fin
 aliases:
   - 劣币驱逐良币
 ---

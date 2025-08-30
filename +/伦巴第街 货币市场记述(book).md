@@ -5,10 +5,11 @@ related:
   - "[[沃尔特 白芝浩 Walter Bagehot]]"
 year: 1873
 created: 2025-06-06
-tags: 
+tags:
+  - domain/econ-fin
 type: "[[Book📚]]"
 ch: "00"
-finished: 
-aliases: 
+finished:
+aliases:
 source: CH01
 ---

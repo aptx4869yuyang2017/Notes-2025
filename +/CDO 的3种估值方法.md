@@ -5,7 +5,7 @@ related:
   - "[[2008年金融危机]]"
 created: 2025-05-11
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 **1. 市场价高于账面价（如股价12美元）**
 

@@ -1,9 +1,10 @@
 ---
-up: 
-related: 
-year: 
-created: 
-tags: 
+up:
+  - "[[研究报告 MOC]]"
+related:
+year:
+created: 2025-05-19
+tags:
 type: "[[Article]]"
 ---
 

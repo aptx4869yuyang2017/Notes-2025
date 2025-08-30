@@ -1,11 +1,11 @@
 ---
 up:
-  - "[[Econ Model 经济学模型 MOC]]"
+  - "[[Econ Fin Model 经济金融模型 MOC]]"
 related:
   - "[[货币银行经济学-CH04-金钱的宏观&微观视角]]"
 created: 2025-05-20
 tags:
-  - domain/economy
+  - domain/econ-fin
 aliases:
   - FoF
 ---

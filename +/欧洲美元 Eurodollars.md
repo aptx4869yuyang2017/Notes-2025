@@ -5,7 +5,7 @@ related:
   - "[[货币银行经济学-CH08 欧洲美元 平行结算]]"
 created: 2025-05-31
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 ### 核心特征

@@ -4,7 +4,7 @@ up:
 related: 
 created: 2025-05-21
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 

@@ -4,12 +4,14 @@ up:
 related: 
 created: 2025-06-01
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
+
 
 > [!map]+ 金融操作
 > ```dataview
 > table created
 > where contains(up, this.file.link) and !contains(file.name, "Template")
-> sort file.name
+> sort created desc
 > ```
+

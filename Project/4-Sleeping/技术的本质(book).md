@@ -6,7 +6,7 @@ year: 2009
 created: 2024-02-04
 tags:
   - domain/evolution
-  - domain/economy
+  - domain/econ-fin
 type: "[[Book📚]]"
 ch: "00"
 finished: 

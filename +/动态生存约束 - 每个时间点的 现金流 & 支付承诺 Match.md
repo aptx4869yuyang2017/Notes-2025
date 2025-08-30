@@ -5,7 +5,7 @@ related:
   - "[[银行关心的核心问题-不是长期偿付能力，而是短期流动性]]"
 created: 2025-05-21
 tags:
-  - domain/economy
+  - domain/econ-fin
 aliases:
   - 风险时间错配
 ---

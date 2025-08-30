@@ -1,11 +1,27 @@
 ---
 up:
-  - "[[PowerBI MOC]]"
+  - "[[Power BI MOC]]"
   - "[[PowerBI DAX Function 函数]]"
 related: 
 created: 2024-12-08
 ---
- > [!important] 案例清单
+```base
+filters:
+  and:
+    - up.contains(this.file.name)
+    - '!file.name.contains("Template")'
+views:
+  - type: table
+    name: Table
+```
+
+
+
+
+
+
+
+ > [!important]- 案例清单
 > 
 > 
 > ```dataview

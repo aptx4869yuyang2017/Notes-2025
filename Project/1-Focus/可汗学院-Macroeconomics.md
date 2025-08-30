@@ -3,7 +3,7 @@ up:
 related: 
 created: 2024-01-26
 tags:
-  - domain/economy
+  - domain/econ-fin
 type: "[[Course]]"
 finished: 
 URL: https://www.khanacademy.org/economics-finance-domain/macroeconomics

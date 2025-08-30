@@ -1,14 +1,13 @@
 ---
 up:
   - "[[Optimizing DAX 优化DAX(book)]]"
-related: 
-year: 
+related:
 created: 2024-08-25
-tags: 
+tags:
+  - domain/powerbi/performance
 type: "[[Chapter]]"
 ch: "08"
 finished: 2024-08-26
-aliases:
 ---
 
 ### 1 查询计划结构

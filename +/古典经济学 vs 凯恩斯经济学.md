@@ -6,7 +6,7 @@ related:
   - "[[古典经济学]]"
 created: 2025-05-07
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 

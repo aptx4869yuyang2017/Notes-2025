@@ -5,7 +5,7 @@ related:
   - "[[货币银行经济学-CH07 回购 Repo 延期结算]]"
 created: 2025-05-30
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 ![image.png|280](https://s1.vika.cn/space/2025/05/30/de5b2203a10d41e29039f6943d834dc4)
 

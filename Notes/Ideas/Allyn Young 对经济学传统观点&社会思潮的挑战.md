@@ -5,7 +5,7 @@ related:
   - "[[货币银行经济学-CH03 金钱&国家 - 以美国为例]]"
 created: 2025-05-18
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 ### **阿林·杨 vs. 经济正统理论（1924年）**
 

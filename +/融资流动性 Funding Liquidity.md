@@ -1,15 +1,19 @@
 ---
 up:
-  - "[[Econ Model 经济学模型 MOC]]"
+  - "[[Econ Fin Concept 经济金融概念]]"
 related:
   - "[[货币银行经济学-CH10 交易商和流动性证券市场]]"
   - "[[市场流动性 Market Liquidity]]"
 created: 2025-06-08
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
-**定义**：市场参与者通过借款或发行短期债务工具获取资金的能力和成本。  
+
+> [!important] **融资流动性**
+> 指金融机构能否及时、低成本地获得现金（如存款、同业拆借、票据贴现回款等）以满足支付义务（如储户提款、债务到期）。
+> 
+
 
 ---
 

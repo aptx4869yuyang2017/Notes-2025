@@ -5,7 +5,7 @@ related:
   - "[[MacroEcon-CH06-开放经济：国际贸易和金融]]"
 created: 2025-05-05
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 # 课程内容
@@ -54,11 +54,9 @@ tags:
 
 # 中国实践
 
-![image.png|587](https://s1.vika.cn/space/2025/05/05/a40d12436ee5404b95d57d0658a47bad)
+![image.png|764](https://s1.vika.cn/space/2025/05/05/a40d12436ee5404b95d57d0658a47bad)
 [2024年三季度及前三季度我国国际收支平衡表](https://www.gov.cn/lianbo/bumen/202411/content_6985661.htm)
 
-
-## **资本与金融账户（Capital and Financial Account）**
 
 ### **1. 资本账户（Capital Account）**
 

@@ -1,10 +1,11 @@
 ---
 up:
   - "[[可汗学院-Macroeconomics]]"
-related: 
+related:
 created: 2024-07-17
-tags: 
-type: "[[Course]]"
+tags:
+  - domain/econ-fin
+type: "[[Class]]"
 finished:
 ---
 

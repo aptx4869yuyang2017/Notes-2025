@@ -4,7 +4,7 @@ related:
   - "[[MacroEcon-CH04-金融部门 货币政策]]"
 created: 2025-05-04
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 [Khan Academy](https://www.khanacademy.org/economics-finance-domain/macroeconomics/monetary-system-topic/macro-definition-measurement-and-functions-of-money/v/commodity-money-vs-fiat-money)
 

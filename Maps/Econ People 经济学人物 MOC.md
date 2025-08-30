@@ -5,7 +5,7 @@ related:
 created: 2025-05-09
 tags:
   - map
-  - domain/economy
+  - domain/econ-fin
 ---
 > [!map]+ People
 > ```dataview

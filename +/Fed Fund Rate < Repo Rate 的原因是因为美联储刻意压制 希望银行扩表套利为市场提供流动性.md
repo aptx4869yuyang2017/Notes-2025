@@ -6,7 +6,7 @@ related:
   - "[[货币银行经济学-CH07 回购 Repo 延期结算]]"
 created: 2025-05-31
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 ## 金融危机前的市场逻辑 Fund Fed Rate > Repo Rate
 

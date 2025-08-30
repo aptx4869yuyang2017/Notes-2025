@@ -1,11 +1,12 @@
 ---
 up:
-  - "[[Econ Model 经济学模型 MOC]]"
+  - "[[Econ Fin Concept 经济金融概念]]"
 related:
   - "[[货币银行经济学-CH10 交易商和流动性证券市场]]"
+  - "[[融资流动性 Funding Liquidity]]"
 created: 2025-06-08
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 # 定义与特征
 

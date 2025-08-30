@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Econ Fin 经济金融 Map]]"
+  - "[[Fin Tools 金融工具 MOC]]"
 related: 
 created: 2025-05-14
 tags:

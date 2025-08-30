@@ -8,7 +8,7 @@ related:
   - "[[Broker vs Dealer 经纪商 Broker vs 交易商 Dealer]]"
 created: 2025-05-31
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 

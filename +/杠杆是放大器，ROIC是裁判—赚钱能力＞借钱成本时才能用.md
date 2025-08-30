@@ -5,7 +5,7 @@ related:
   - "[[做市商 使用杠杆放大收益]]"
 created: 2025-06-08
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 

@@ -1,13 +1,13 @@
 ---
 up:
-  - "[[Econ Model 经济学模型 MOC]]"
+  - "[[Econ Fin Model 经济金融模型 MOC]]"
 related:
   - "[[MacroEcon-CH05-稳定政策的长期结果]]"
   - "[[菲利普斯曲线]]"
   - "[[AD-AS 模型]]"
 created: 2025-05-05
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 ## 核心概念
 

@@ -4,7 +4,7 @@ up:
 related: 
 created: 2025-05-19
 tags:
-  - domain/economy
+  - domain/econ-fin
 aliases:
   - 美联储
 ---

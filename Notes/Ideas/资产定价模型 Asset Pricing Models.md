@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Econ Model 经济学模型 MOC]]"
+  - "[[Econ Fin Model 经济金融模型 MOC]]"
 related:
   - "[[财务报表分析与证券估值(book)]]"
 created: 2025-04-17

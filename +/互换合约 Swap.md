@@ -5,7 +5,7 @@ related:
   - "[[回购协议 Repo RP - 法律架构]]"
 created: 2025-05-31
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 

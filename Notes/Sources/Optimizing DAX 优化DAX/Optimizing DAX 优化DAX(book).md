@@ -11,97 +11,71 @@ finished:
 aliases:
 ---
 
-![738addce94f844219c1caf98f4945b91|409](https://s1.vika.cn/space/2024/08/22/738addce94f844219c1caf98f4945b91)
+![738addce94f844219c1caf98f4945b91|286](https://s1.vika.cn/space/2024/08/22/738addce94f844219c1caf98f4945b91)
 
 # 每章介绍
 
 
 
-- CH07 理解 DAX 公式引擎
-	- **FE执行查询计划采用的算法**
-	- 数据缓存/物化/回掉 等相关概念，更深入理解了 FE如何与 SE 协作互动
-	- 不同的 SE 会产生完全不同的 查询计划
-	- 融合 是一种 FE 优化技术
-	- 思考 FE 执行方式执行过程的思路
-		- 先自己思考 FE 会如何设计查询计划
-		- 再查看实际的查询计划，对比和自己预想的差异
-	- 需要留意的 FE 特性
-		- 单线程：优化 FE 通常是关键
-		- 执行的 SE 查询通常有先后顺序
-		- FE 没有缓存：执行步骤不缓存，设计 callback 也没缓存
-	- 分析查询计划时间
-		- 总时间/SE CPU 时间
-		- FE 时间 / SE 时间
-		- SE 查询数量 / 集中 SE 缓存的数量
-- CH08 理解查询计划
-	- **详细解释 物理查询计划/逻辑查询计划**  CH07 的自然延伸
-	- 查询计划结构
+> [!NOTE]- 介绍
+> - CH07 理解 DAX 公式引擎
+> 	- **FE执行查询计划采用的算法**
+> 	- 数据缓存/物化/回掉 等相关概念，更深入理解了 FE如何与 SE 协作互动
+> 	- 不同的 SE 会产生完全不同的 查询计划
+> 	- 融合 是一种 FE 优化技术
+> 	- 思考 FE 执行方式执行过程的思路
+> 		- 先自己思考 FE 会如何设计查询计划
+> 		- 再查看实际的查询计划，对比和自己预想的差异
+> 	- 需要留意的 FE 特性
+> 		- 单线程：优化 FE 通常是关键
+> 		- 执行的 SE 查询通常有先后顺序
+> 		- FE 没有缓存：执行步骤不缓存，设计 callback 也没缓存
+> 	- 分析查询计划时间
+> 		- 总时间/SE CPU 时间
+> 		- FE 时间 / SE 时间
+> 		- SE 查询数量 / 集中 SE 缓存的数量
+> - CH08 理解查询计划
+> 	- **详细解释 物理查询计划/逻辑查询计划**  CH07 的自然延伸
+> 	- 查询计划结构
 
 
+**Part 1 核心概念**
+开篇通过优化实例概述DAX代码与表格模型的优化步骤，接着解析表格架构的核心主题，介绍必备工具集并引入查询计划概念。
+
+[[优化DAX-CH01 介绍]]
+[[优化DAX-CH02 案例介绍优化方案]]
+[[优化DAX-CH03 Tabular查询架构]]
+[[优化DAX-CH04 使用 PowerBI Desktop 性能分析器]]
+[[优化DAX-CH05 使用 DAX Studio]]
+[[优化DAX-CH06 介绍查询计划]]
 
 
+**Part 2 公式引擎** 7~9
+本部分将深入FE内核，剖析运算逻辑、数据缓存机制，解读查询计划并开启代码优化实践。
+
+[[优化DAX-CH07 理解 DAX FE]]
 [[优化DAX-CH08-理解查询计划]]
 [[优化DAX-CH09 优化FE]]
+
+
+**Part 3 VertiPaq引擎** 10~16
+作为全书的重点，七个技术密度极高的章节将系统解析VertiPaq引擎。随着知识体系的深入，我们将处理大量进阶优化场景。
+
 [[优化DAX-CH10-理解VertiPaq]]
 
+**Part 4 基于SQL的DirectQuery** 17~19
+全面探讨SQL存储引擎上的DirectQuery技术。请注意，前述章节是理解本部分内容的必备基础。  
 
-# CH01 介绍
-
-## 附带内容
-
-
-### 下载数据
+**Part 5 复合模型**
+作为表格模型的最新架构演进，复合模型因同时涉及VertiPaq和DirectQuery的技术复杂性而最具挑战性。
 
 
 
-[Contoso sample databases· GitHub](https://github.com/sql-bi/Contoso-Data-Generator-V2-data/releases/tag/ready-to-use-data)
 
 
 
-# CH02 案例介绍优化方案
-
-### 3 优化混合模型
-
-- 复合模型如何影响优化过程
-- 问题不在于 DAX 代码，而在于 local 与 remote 引擎的交互
-- 为了优化性能
-	- 对架构又深入的理解
-	- 及远程服务器与本地服务器的查询分配方式
 
 
-
-[Dynamic segmentation – DAX Patterns](https://www.daxpatterns.com/dynamic-segmentation/)
-
-
-
-# CH03 介绍 Tabular 模型查询架构
-
-### 数据孤岛与跨岛查询
-
-
-![](https://s1.vika.cn/space/2024/08/21/4923283e8c524993a68705f461016fc9)
-
-
-- Product / Sales 存在远程的 AS 模型上，也就是 DQ over AS
-- Customer DQ over SQL
-- Date VertiPaq
-
-
-![](https://s1.vika.cn/space/2024/08/21/6cb03dea0569479f991bb61c6fd40c9a)
-
-
-![775109ddfd30417ab52d93beb7c417ca|468](https://s1.vika.cn/space/2024/08/21/775109ddfd30417ab52d93beb7c417ca)
-
-- 解决思路：
-	- 因为分别的岛屿并不知道其他岛屿的信息，所以只能在关联粒度上查询数据，最后让 FE 进行处理
-- 问题
-	- 服务器之间有大量的数据移动，例如 CustomerKey 包含的值远比 Continent 多
-
-![6be5ebff509f481dac23dbde0473af44|589](https://s1.vika.cn/space/2024/08/21/6be5ebff509f481dac23dbde0473af44)
-
-- 实际方案：
-	- 把 Customer / Date 两个岛屿， 聚合维度 - 键  查询出来
-	- 传给 remote 的有 Sales 的岛屿处理
 
 
 # CH07 理解 DAX 公式引擎 FE

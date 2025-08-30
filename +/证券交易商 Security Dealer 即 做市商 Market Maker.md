@@ -1,11 +1,11 @@
 ---
 up:
-  - "[[Econ Model 经济学模型 MOC]]"
+  - "[[Econ Fin Model 经济金融模型 MOC]]"
 related:
   - "[[货币银行经济学-CH10 交易商和流动性证券市场]]"
 created: 2025-06-08
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 **双向做市商基础原理**

@@ -1,11 +1,11 @@
 ---
 up:
-  - "[[Econ Event 经济学事件]]"
+  - "[[Econ Fin Event 经济金融事件]]"
 related:
   - "[[货币银行经济学-CH11 银行和流动性市场]]"
 created: 2025-06-08
 tags:
-  - domain/economy
+  - domain/econ-fin
 dates: "2008"
 ---
 

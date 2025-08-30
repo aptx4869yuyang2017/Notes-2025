@@ -8,7 +8,7 @@ tags:
 ---
 > [!map]+ 金融机构
 > ```dataview
-> table
+> table dates
 > where contains(up, this.file.link) and !contains(file.name, "Template")
 > sort dates
 > ```

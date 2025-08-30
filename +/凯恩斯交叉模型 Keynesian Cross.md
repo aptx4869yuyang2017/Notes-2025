@@ -5,7 +5,7 @@ related:
   - "[[凯恩斯 John Maynard Keynes]]"
 created: 2025-05-05
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 凯恩斯主义的核心观点是：**经济的均衡GDP有时可能低于潜在最优水平**（比如存在失业或产能过剩）。通过调节**总需求**，我们可以使经济更接近充分就业状态。
 

@@ -1,9 +1,9 @@
 ---
-up: 
-related: 
+up:
+related:
 created: {{date}}
-tags: 
+tags:
 type: "[[Class]]"
-finished: 
+finished:
 Section:
 ---

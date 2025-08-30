@@ -1,11 +1,11 @@
 ---
 up:
-  - "[[Econ Model 经济学模型 MOC]]"
+  - "[[Econ Fin Model 经济金融模型 MOC]]"
 related:
   - "[[货币银行经济学-CH06 联邦基金：最终清算]]"
 created: 2025-05-26
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 ![image.png](https://s1.vika.cn/space/2025/05/25/79bc884a6f484e688f2f7b66c2482ebf)

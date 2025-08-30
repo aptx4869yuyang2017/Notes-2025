@@ -1,12 +1,12 @@
 ---
 up:
-  - "[[Econ Model 经济学模型 MOC]]"
+  - "[[Econ Fin Model 经济金融模型 MOC]]"
 related:
   - "[[货币银行经济学-CH10 交易商和流动性证券市场]]"
   - "[[资产定价模型 Asset Pricing Models]]"
 created: 2025-06-02
 tags:
-  - domain/economy
+  - domain/econ-fin
 dates: "1987"
 ---
 # 模型基础教程
@@ -76,14 +76,4 @@ dates: "1987"
 
 **4. 流动性转换本质**
 
-
-![image.png|460](https://s1.vika.cn/space/2025/06/02/801b0fe7bb84461aa1a87dae826a4f66)
-![image.png|462](https://s1.vika.cn/space/2025/06/02/ebc72d962b19461b8b3b8efa1423fb2c)
-
-- **[[融资流动性 Funding Liquidity]]**（银行融资）→ **[[市场流动性 Market Liquidity]]**（证券买卖便利性）
-- 正常时期通过价差获利覆盖风险，危机时期传导链断裂
-
-> 延伸阅读推荐：Larry Harris《交易与交易所》（市场微观结构实践指南）
-> ****Trading and Exchanges***
-
-[[交易与交易所 Trading and Exchanges(book)]]
+![[做市商 Dealer 的本质功能是将融资流动性转变为市场流动性]]

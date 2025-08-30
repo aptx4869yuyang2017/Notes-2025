@@ -5,7 +5,7 @@ related:
   - "[[货币银行经济学-CH03 金钱&国家 - 以美国为例]]"
 created: 2025-05-18
 tags:
-  - domain/economy
+  - domain/econ-fin
 aliases:
   - National Banking System
   - 国家银行体系

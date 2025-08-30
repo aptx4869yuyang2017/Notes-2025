@@ -1,11 +1,11 @@
 ---
 up:
-  - "[[Econ Model 经济学模型 MOC]]"
+  - "[[Econ Fin Model 经济金融模型 MOC]]"
 related:
   - "[[MacroEcon-CH03-国民收入与价格决定]]"
 created: 2025-05-03
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 [[AD-AS模型.excalidraw]]
 

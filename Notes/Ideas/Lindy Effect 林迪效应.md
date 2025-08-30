@@ -1,7 +1,7 @@
 ---
 up:
-  - "[[Concepts Map]]"
-related: []
+  - "[[Concept 概念 MOC]]"
+related: 
 created: 2015-09-01
 tags:
   - concept

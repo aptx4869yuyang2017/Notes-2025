@@ -4,7 +4,7 @@ related:
   - "[[MacroEcon-CH03-国民收入与价格决定]]"
 created: 2025-05-01
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 # Multipliers 乘数效应
 

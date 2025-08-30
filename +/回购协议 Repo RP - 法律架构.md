@@ -6,7 +6,7 @@ related:
   - "[[货币银行经济学-CH07 回购 Repo 延期结算]]"
 created: 2025-05-31
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 #### **1. 本质：对称性抵押贷款**

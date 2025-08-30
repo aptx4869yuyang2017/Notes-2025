@@ -1,14 +1,14 @@
 ---
 up:
-  - "[[Econ Theory 经济学理论 MOC]]"
-  - "[[Fin Concept 金融概念]]"
+  - "[[Econ Fin Theory 经济金融理论 MOC]]"
+  - "[[Econ Fin Concept 经济金融概念]]"
 related:
   - "[[货币金属论 Metallism]]"
   - "[[货币体系的两大原则：纪律性与弹性]]"
   - "[[货币银行经济学-CH13 货币究竟是什么]]"
 created: 2025-05-17
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 ![[政府垄断货币发行权是因为这是成本最低的融资渠道]]

@@ -5,7 +5,7 @@ related:
   - "[[货币银行经济学-CH03 金钱&国家 - 以美国为例]]"
 created: 2025-05-18
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 ![image.png|552](https://s1.vika.cn/space/2025/05/18/2929eea8eadc4e1193d25ca4231d22f0)

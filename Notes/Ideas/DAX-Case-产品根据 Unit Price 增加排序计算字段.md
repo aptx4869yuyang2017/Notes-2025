@@ -30,7 +30,7 @@ RETURN
 	COUNTROWS ( MoreExpensiveProducts ) + 1
 ```
 
-![f79880f4ebff4ba18cf77ada0bee5795|433](https://s1.vika.cn/space/2024/12/08/f79880f4ebff4ba18cf77ada0bee5795)
+![f79880f4ebff4ba18cf77ada0bee5795|666](https://s1.vika.cn/space/2024/12/08/f79880f4ebff4ba18cf77ada0bee5795)
 
 ![e2c618e9f99d4518a19883d241425280|441](https://s1.vika.cn/space/2024/12/08/e2c618e9f99d4518a19883d241425280)
 

@@ -7,7 +7,7 @@ related:
   - "[[Repo 交易商]]"
 created: 2025-05-31
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 

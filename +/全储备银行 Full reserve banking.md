@@ -4,7 +4,7 @@ related:
   - "[[MacroEcon-CH04-金融部门 货币政策]]"
 created: 2025-05-04
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 ![600](https://s1.vika.cn/space/2023/04/12/2f37370adc41425babb758e2adf938c0)
 

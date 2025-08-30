@@ -6,7 +6,7 @@ related:
   - "[[欧洲美元 Eurodollars]]"
 created: 2025-05-31
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 让我们用更清晰的方式解析欧洲美元(Eurodollars)的运作机制：
 

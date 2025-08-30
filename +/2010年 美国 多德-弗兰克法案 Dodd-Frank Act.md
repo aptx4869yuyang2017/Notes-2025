@@ -1,11 +1,11 @@
 ---
 up:
-  - "[[Econ Event 经济学事件]]"
+  - "[[Econ Fin Event 经济金融事件]]"
 related:
   - "[[沃尔克法则 Volcker Rule]]"
 created: 2025-06-08
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 **📅 生效时间**：2010年7月（美国）  

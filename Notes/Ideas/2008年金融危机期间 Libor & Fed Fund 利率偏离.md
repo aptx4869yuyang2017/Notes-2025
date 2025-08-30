@@ -1,11 +1,11 @@
 ---
 up:
-  - "[[Econ Event 经济学事件]]"
+  - "[[Econ Fin Event 经济金融事件]]"
 related:
   - "[[货币银行经济学-CH08 欧洲美元 平行结算]]"
 created: 2025-05-31
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 

@@ -5,7 +5,7 @@ related:
 created: 2025-05-08
 tags:
   - map
-  - domain/economy
+  - domain/econ-fin
 ---
 
 [[经济学流派地图.excalidraw]]

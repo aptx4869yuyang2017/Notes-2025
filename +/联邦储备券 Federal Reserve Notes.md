@@ -4,7 +4,7 @@ up:
 related: 
 created: 2025-05-19
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 美国目前流通的纸钞

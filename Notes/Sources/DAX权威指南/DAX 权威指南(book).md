@@ -1,12 +1,13 @@
 ---
 up: []
-related: 
+related:
 year: 2020
 created: 2024-01-05
 tags:
   - domain/data
 type: "[[Book📚]]"
 name: The Definitive Guide to DAX
+finished: 2025-02-19
 ---
 
 

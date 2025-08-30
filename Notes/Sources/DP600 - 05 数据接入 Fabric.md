@@ -1,5 +1,5 @@
 ---
-up: 
+up:
 related:
   - "[[DP600 Fabric Learn]]"
 created: 2024-12-29

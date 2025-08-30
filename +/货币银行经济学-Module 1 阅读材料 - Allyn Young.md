@@ -5,8 +5,8 @@ related:
   - "[[阿尔林 杨 Allyn Young]]"
 created: 2025-05-12
 tags:
-  - domain/economy
-type: "[[Class]]"
+  - domain/econ-fin
+type: "[[Article]]"
 ---
 
 [d396qusza40orc.cloudfront.net/money/readings/Allyn Young.pdf](https://d396qusza40orc.cloudfront.net/money/readings/Allyn%20Young.pdf)

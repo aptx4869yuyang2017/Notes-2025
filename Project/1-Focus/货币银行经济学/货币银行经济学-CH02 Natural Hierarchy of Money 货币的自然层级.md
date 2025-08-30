@@ -1,11 +1,11 @@
 ---
 up:
   - "[[货币银行经济学(course)]]"
-related: 
+related:
 created: 2024-08-18
 tags:
-  - domain/economy
-type: "[[Course]]"
+  - domain/econ-fin
+type: "[[Class]]"
 finished: 2025-05-18
 ---
 课前材料

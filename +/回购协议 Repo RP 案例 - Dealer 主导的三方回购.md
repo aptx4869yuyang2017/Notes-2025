@@ -6,7 +6,7 @@ related:
   - "[[回购协议 Repo RP]]"
 created: 2025-05-30
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 **市场规模与术语特点**
 - 每日交易规模达**数万亿美元**

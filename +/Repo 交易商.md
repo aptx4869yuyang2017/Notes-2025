@@ -5,7 +5,7 @@ related:
   - "[[货币银行经济学-CH07 回购 Repo 延期结算]]"
 created: 2025-05-31
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 [透过交易商的资产负债表来认识其商业模式（Security Dealers' Balance Sheet）：货币金融学第7课第7讲\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1Bz4y147qQ?spm_id_from=333.788.player.switch&vd_source=6d4ef5f8b8b73d69ea854cb9321a50ac)

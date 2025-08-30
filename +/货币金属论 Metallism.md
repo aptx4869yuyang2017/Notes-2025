@@ -1,12 +1,12 @@
 ---
 up:
-  - "[[Econ Theory 经济学理论 MOC]]"
-  - "[[Fin Concept 金融概念]]"
+  - "[[Econ Fin Theory 经济金融理论 MOC]]"
+  - "[[Econ Fin Concept 经济金融概念]]"
 related:
   - "[[货币体系的两大原则：纪律性与弹性]]"
 created: 2025-05-17
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 
 

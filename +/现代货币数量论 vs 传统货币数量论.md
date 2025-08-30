@@ -5,7 +5,7 @@ related:
   - "[[欧文 费雪 Irving Fisher]]"
 created: 2025-05-05
 tags:
-  - domain/economy
+  - domain/econ-fin
 ---
 # 一、核心联系
 

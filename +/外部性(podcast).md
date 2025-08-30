@@ -2,7 +2,7 @@
 up: 
 related: 
 tags:
-  - domain/economy
+  - domain/econ-fin
 type: "[[Podcast]]"
 ep: "00"
 created: 2025-05-07

@@ -1,11 +1,11 @@
 ---
 up:
   - "[[宏观经济分析&基金投资(course)]]"
-related: 
+related:
 created: 2024-09-29
-tags: 
+tags:
 type: "[[Class]]"
-finished: 
+finished:
 Section: 1
 ---
 # CH01 GDP

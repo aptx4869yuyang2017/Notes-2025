@@ -3,7 +3,7 @@ up:
 related: 
 created: 2024-03-17
 tags:
-  - domain/economy
+  - domain/econ-fin
 type: "[[Course]]"
 finished:
 ---

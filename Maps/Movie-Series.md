@@ -5,13 +5,32 @@ related: []
 created: 2022-01-01
 ---
 
-> [!movie]+ Movie
-> ```dataview
-> table 
-> 	dateformat(finished, "yy-MM-dd") as finished,
-> 	short
-> where type = [[Movie-Series]] and  !contains(file.name, "Template")
-> sort created desc
-> ```
+```base
+filters:
+  and:
+    - type.contains(link("Movie-Series"))
+    - '!file.name.contains("Template")'
+views:
+  - type: table
+    name: Table
+    order:
+      - year
+      - file.name
+      - created
+      - finished
+      - short
+    sort:
+      - property: created
+        direction: DESC
+    columnSize:
+      note.year: 79
+      file.name: 248
+      note.created: 120
+      note.finished: 122
+      note.short: 109
+
+```
+
+
 
 
