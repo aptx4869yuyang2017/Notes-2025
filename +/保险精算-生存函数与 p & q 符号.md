@@ -23,7 +23,7 @@ The Survival Function, p and q Notation
 概率密度函数 $f(t)$ ：死亡事件的概率密度 $f_x(t)$ 
 生存函数 $S(t)$:  超过 2个月还存活 $tp_x$
 
-期望寿命 $\overset{\circ}{e}_{x}$ ：是对生存函数的积分
+期望寿命 $\overset{\circ}{e}_{x}$ ：是对生存函数对积分
 
 1.  **随机变量定义：**
     设 $T_x$ 为一个随机变量，表示一个当前年龄为 $x$ 岁的人的**未来寿命**。

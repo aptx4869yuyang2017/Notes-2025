@@ -18,8 +18,10 @@ views:
       - file.name
       - dates
     sort:
-      - property: file.name
+      - property: dates
         direction: DESC
+    columnSize:
+      file.name: 416
 
 ```
 
