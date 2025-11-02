@@ -1,11 +1,11 @@
 ---
 up:
-  - "[[Investments MOC]]"
 related:
-created: 2025-08-13
+created: 2025-09-23
 tags:
   - map
 ---
+
 
 
 ```base
@@ -17,5 +17,3 @@ views:
   - type: table
     name: Table
 ```
-
-

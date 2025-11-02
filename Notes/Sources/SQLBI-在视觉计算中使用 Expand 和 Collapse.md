@@ -13,8 +13,6 @@ aliases:
 # 视觉计算版本
 
 
-
-
 ## 通胀系数的存储
 
 
@@ -62,7 +60,7 @@ RETURN
 
 如果只有四年就是四行
 
-![image.png|460](https://s1.vika.cn/space/2025/02/09/09a631c4c91c44da82afe2649ad2791f)
+![image.png|609](https://s1.vika.cn/space/2025/02/09/09a631c4c91c44da82afe2649ad2791f)
 
 当只有两年 15个月，Rows 返回15行
 

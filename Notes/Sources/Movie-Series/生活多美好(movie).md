@@ -1,10 +1,10 @@
 ---
-up: 
-related: 
-tags: 
+up:
+related:
+tags:
 type: "[[Movie-Series]]"
 created: 2025-06-28
-finished: 
+finished: 2025-09-14
 year: 1946
 short: 豆瓣评分9.2 怎么也得看看
 ---

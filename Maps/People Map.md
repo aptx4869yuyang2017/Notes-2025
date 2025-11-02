@@ -7,6 +7,24 @@ tags:
   - map
 ---
 
+```base
+filters:
+  and:
+    - tags.contains("people")
+    - '!file.name.contains("Template")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - dates
+    sort:
+      - property: created
+        direction: DESC
+
+```
+
+
 > [!map]+ People
 > ```dataview
 > table dates, dateformat(created, "yy-MM-dd") as created

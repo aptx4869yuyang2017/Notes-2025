@@ -18,7 +18,7 @@ tags:
 
 # 分析
 
-[[个股定期分析 MOC]]
+[[投资调研 Investment MOC]]
 
 
 

@@ -1,11 +1,12 @@
 ---
-up: 
-related: 
+up:
+  - "[[PowerBI Tricks]]"
+related:
 created: 2025-02-10
 tags:
   - domain/powerbi
 type: "[[Article]]"
-finished: 
+finished:
 aliases:
 ---
 

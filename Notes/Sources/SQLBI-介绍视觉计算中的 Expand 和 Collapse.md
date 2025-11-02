@@ -15,10 +15,7 @@ aliases:
 # 使用视觉上下文操作虚拟表的晶格
 
 
-
-
-![image.png](https://s1.vika.cn/space/2025/02/09/c853cad81ca441c3b97b68c85c7a89ef)
-
+![image.png|568](https://s1.vika.cn/space/2025/02/09/c853cad81ca441c3b97b68c85c7a89ef)
 
 
 

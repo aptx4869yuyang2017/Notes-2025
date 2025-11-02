@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Accounting 会计 Map]]"
+  - "[[会计 Accounting Map]]"
 related:
 created: 2025-09-02
 tags:
@@ -17,4 +17,10 @@ filters:
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - created
+    columnSize:
+      file.name: 352
+
 ```

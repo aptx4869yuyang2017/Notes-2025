@@ -1,13 +1,13 @@
 ---
 up:
-  - "[[Accounting 会计 Map]]"
-related: 
-year: 2203
+  - "[[会计 Accounting Map]]"
+related:
+year: 2023
 created: 2024-10-06
 tags:
   - domain/investment
 type: "[[Book📚]]"
-ch: 
+ch:
 finished: 2024-10-12
 aliases:
 ---

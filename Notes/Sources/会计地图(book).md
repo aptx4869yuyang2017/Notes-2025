@@ -1,7 +1,7 @@
 ---
 up:
-  - "[[Accounting 会计 Map]]"
-related: 
+  - "[[会计 Accounting Map]]"
+related:
 year: 2022
 created: 2024-10-04
 tags:
