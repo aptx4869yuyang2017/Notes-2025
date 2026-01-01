@@ -1,13 +1,13 @@
 ---
-up: 
+up:
 related:
   - "[[彭文生]]"
-year: 
+year:
 created: 2025-04-29
 tags:
   - domain/investment
-type: "[[Book📚]]"
-ch: 
-finished: 
+type: "[[Book]]"
+ch:
+finished:
 aliases:
 ---

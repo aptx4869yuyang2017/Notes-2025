@@ -1,6 +1,6 @@
 ---
 name: "Why Greatness Cannot Be Planned: The Myth of the Objective"
-up: 
+up:
 related:
   - "[[Kenneth Stanley 肯尼斯·斯坦利]]"
   - "[[Joel Lehman 乔尔 雷曼]]"
@@ -8,9 +8,9 @@ year: 2015
 created: 2024-01-15
 tags:
   - domain/pkm
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 ---
 [[Joel Lehman 乔尔 雷曼]]
 [[Kenneth Stanley 肯尼斯·斯坦利]]

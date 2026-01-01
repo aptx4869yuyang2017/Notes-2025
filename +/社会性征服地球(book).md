@@ -1,12 +1,12 @@
 ---
-up: 
-related: 
+up:
+related:
 year: 2012
 created: 2025-05-30
-tags: 
-type: "[[Book📚]]"
+tags:
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
   - The Social Conquest of Earth
 URLs:

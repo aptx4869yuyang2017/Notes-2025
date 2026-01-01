@@ -5,7 +5,7 @@ year: 2021
 created: 2025-10-20
 tags:
   - domain/business
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch:
 finished:
 aliases:

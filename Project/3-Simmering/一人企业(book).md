@@ -1,13 +1,13 @@
 ---
-up: 
-related: 
+up:
+related:
 year: 2019
 created: 2024-02-26
 tags:
   - domain/business
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
 ---
 ## CH01 初识“一人企业”

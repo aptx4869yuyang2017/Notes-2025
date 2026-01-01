@@ -1,13 +1,13 @@
 ---
-up: 
-related: 
+up:
+related:
 year: 2023
 created: 2024-08-21
 tags:
   - domain/powerbi
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
 ---
 

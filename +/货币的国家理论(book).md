@@ -3,13 +3,13 @@ up:
   - "[[货币银行经济学-参考书目]]"
 related:
   - "[[克纳普 Georg Friedrich Knapp]]"
-year: 
+year:
 created: 2025-06-18
 tags:
   - domain/econ-fin
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
   - The State Theory of Money
 source: CH13

@@ -1,14 +1,14 @@
 ---
-up: 
+up:
 related:
   - "[[丁昶]]"
 year: 2023
 created: 2024-10-17
 tags:
   - domain/investment
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
 ---
 [买入银行股 (豆瓣)](https://book.douban.com/subject/36430589/)

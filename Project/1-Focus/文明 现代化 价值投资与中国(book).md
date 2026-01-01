@@ -1,14 +1,14 @@
 ---
-up: 
+up:
 related:
   - "[[李录]]"
 year: 2020
 created: 2025-05-30
 tags:
   - domain/econ-fin
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 URLs:
   - https://weread.qq.com/web/reader/6f5323f071bd7f7b6f521e8#outline?noScroll=1
 ---

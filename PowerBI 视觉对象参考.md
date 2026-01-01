@@ -5,6 +5,7 @@ related:
 created: 2025-09-13
 tags:
   - domain/powerbi
+cover: https://s1.vika.cn/space/2025/09/13/6c15e99c0c0b43388510b8702c9c2473
 ---
 [Title Unavailable \| Site Unreachable](https://www.sqlbi.com/ref/power-bi-visuals-reference/)
 

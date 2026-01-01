@@ -1,13 +1,13 @@
 ---
-up: 
-related: 
+up:
+related:
 year: 2007
 created: 2024-10-11
 tags:
   - domain/life
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
 ---
 

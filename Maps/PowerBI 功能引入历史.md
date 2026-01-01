@@ -1,7 +1,7 @@
 ---
 up:
-  - "[[Power BI MOC]]"
-related: 
+  - "[[PowerBI MOC]]"
+related:
 created: 2025-02-09
 tags:
   - domain/powerbi

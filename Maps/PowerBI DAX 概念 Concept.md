@@ -1,7 +1,7 @@
 ---
 up:
-  - "[[Power BI MOC]]"
-related: 
+  - "[[PowerBI MOC]]"
+related:
 created: 2024-12-07
 ---
 

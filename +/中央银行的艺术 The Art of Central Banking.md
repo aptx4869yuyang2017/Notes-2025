@@ -7,7 +7,7 @@ year: 1932
 created: 2025-06-12
 tags:
   - domain/econ-fin
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch:
 finished:
 aliases:

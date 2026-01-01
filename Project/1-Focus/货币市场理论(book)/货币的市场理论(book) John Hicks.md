@@ -8,9 +8,9 @@ year: 1989
 created: 2025-06-05
 tags:
   - domain/econ-fin
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
   - A Market Theory of Money
 source: CH09

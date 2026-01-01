@@ -1,8 +1,8 @@
 ---
 up:
-  - "[[Power BI MOC]]"
+  - "[[PowerBI MOC]]"
   - "[[PowerBI DAX Function 函数]]"
-related: 
+related:
 created: 2024-12-08
 ---
 ```base

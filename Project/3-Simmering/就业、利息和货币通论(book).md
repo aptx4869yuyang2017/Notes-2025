@@ -1,12 +1,12 @@
 ---
-up: 
-related: 
+up:
+related:
 year: 1936
 created: 2024-10-02
-tags: 
-type: "[[Book📚]]"
-ch: 
-finished: 
+tags:
+type: "[[Book]]"
+ch:
+finished:
 aliases:
 ---
 	·

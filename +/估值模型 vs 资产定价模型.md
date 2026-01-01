@@ -1,6 +1,8 @@
 ---
-up: 
-related: 
+up:
+  - "[[Investment Concept 投资概念]]"
+related:
+  - "[[财务报表分析与证券估值-CH03 财务报表在估值中的应用]]"
 created: 2025-04-16
 tags:
   - domain/investment

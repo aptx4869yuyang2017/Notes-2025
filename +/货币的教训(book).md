@@ -1,13 +1,13 @@
 ---
-up: 
+up:
 related:
   - "[[周其仁]]"
 year: 2010
 created: 2025-08-01
-tags: 
-type: "[[Book📚]]"
-ch: 
-finished: 
+tags:
+type: "[[Book]]"
+ch:
+finished:
 aliases:
 ---
 

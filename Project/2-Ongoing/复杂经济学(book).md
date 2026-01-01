@@ -6,10 +6,10 @@ related:
   - "[[圣塔菲研究所]]"
 year: 2014
 created: 2024-01-27
-tags: 
-type: "[[Book📚]]"
+tags:
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 URL: https://weread.qq.com/web/bookDetail/19932f00716980251993466
 aliases:
   - Complexity and the Economy

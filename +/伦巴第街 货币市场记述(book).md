@@ -7,7 +7,7 @@ year: 1873
 created: 2025-06-06
 tags:
   - domain/econ-fin
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch: "00"
 finished:
 aliases:

@@ -1,14 +1,14 @@
 ---
-up: 
+up:
 related:
   - "[[辜朝明]]"
 year: 2009
 created: 2025-05-09
 tags:
   - domain/econ-fin
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
 ---
 

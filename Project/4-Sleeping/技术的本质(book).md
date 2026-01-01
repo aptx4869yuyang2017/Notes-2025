@@ -1,5 +1,5 @@
 ---
-up: 
+up:
 related:
   - "[[Brian Arthur 布莱恩 阿瑟]]"
 year: 2009
@@ -7,9 +7,9 @@ created: 2024-02-04
 tags:
   - domain/evolution
   - domain/econ-fin
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
   - "The Nature of Technology: What it Is and How it Evolves"
 ---

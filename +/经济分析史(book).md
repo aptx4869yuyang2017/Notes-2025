@@ -8,9 +8,9 @@ created: 2025-06-17
 tags:
   - domain/econ-fin
 year: 1954
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
   - History of EconomicAnalysis
 reason: 其中有货币相关的章节，“货币明目论 & 货币金属论”的名称分类来源

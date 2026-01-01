@@ -1,13 +1,13 @@
 ---
-up: 
+up:
 related:
   - "[[Ali Abdaal 阿里·阿卜杜尔]]"
 year: 2023
 created: 2024-04-09
-tags: 
-type: "[[Book📚]]"
-ch: 
-finished: 
+tags:
+type: "[[Book]]"
+ch:
+finished:
 aliases:
 ---
 # Part 1 Energise

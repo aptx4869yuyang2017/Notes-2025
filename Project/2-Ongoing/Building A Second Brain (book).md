@@ -4,10 +4,10 @@ up:
 related:
   - "[[Tiago Forte 蒂亚戈 佛特]]"
 year: 2022
-created: 
+created:
 tags:
   - domain/pkm
-type: "[[Book📚]]"
+type: "[[Book]]"
 ---
 
 ## CH00 - Introduction

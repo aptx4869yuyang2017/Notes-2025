@@ -1,13 +1,13 @@
 ---
-up: 
+up:
 related:
   - "[[迈克尔 刘易斯 Michael Lewis]]"
 year: 2016
 created: 2025-06-26
-tags: 
-type: "[[Book📚]]"
+tags:
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
   - The Undoing Project
   - 橡皮擦計畫

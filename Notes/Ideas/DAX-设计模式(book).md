@@ -1,13 +1,13 @@
 ---
 up:
-  - "[[Power BI MOC]]"
-related: 
-year: 
+  - "[[PowerBI MOC]]"
+related:
+year:
 created: 2025-02-11
 tags:
   - domain/powerbi
-type: "[[Book📚]]"
-finished: 
+type: "[[Book]]"
+finished:
 aliases:
   - DAX Pattern
 ---

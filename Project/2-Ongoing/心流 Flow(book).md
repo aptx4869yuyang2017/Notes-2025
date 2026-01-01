@@ -7,7 +7,7 @@ year: 1990
 created: 2024-01-13
 tags:
   - domain/project
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch: "00"
 ---
 ## CH01 心流 快乐的源泉

@@ -1,14 +1,14 @@
 ---
-up: 
+up:
 related:
   - "[[张新民]]"
 year: 2024
 created: 2025-05-13
 tags:
   - domain/investment
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
 ---
 # CH01 初识财务报表

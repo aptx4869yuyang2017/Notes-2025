@@ -1,12 +1,12 @@
 ---
-up: 
-related: 
-year: 
+up:
+related:
+year:
 created: 2024-05-31
-tags: 
-type: "[[Book📚]]"
+tags:
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
 ---
 [微信读书](https://weread.qq.com/web/reader/71a32fb0813ab8de8g019cc9)

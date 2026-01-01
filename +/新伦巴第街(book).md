@@ -1,13 +1,13 @@
 ---
-up: 
+up:
 related:
   - "[[佩里 梅林 Perry Mehrling]]"
 year: 2020
 created: 2025-07-28
-tags: 
-type: "[[Book📚]]"
+tags:
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
   - THE NEW LOMBARD STREET
   - 美联储如何成为最后的交易商

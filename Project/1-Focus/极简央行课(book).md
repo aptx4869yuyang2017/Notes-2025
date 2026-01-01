@@ -1,13 +1,13 @@
 ---
-up: 
-related: 
-year: 
+up:
+related:
+year:
 created: 2025-05-02
 tags:
   - domain/econ-fin
-type: "[[Book📚]]"
-ch: 
-finished: 
+type: "[[Book]]"
+ch:
+finished:
 aliases:
   - Central Banking 101
 ---

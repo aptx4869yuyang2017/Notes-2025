@@ -6,7 +6,7 @@ year: 2020
 created: 2025-10-17
 tags:
   - domain/investment
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch:
 finished:
 aliases:

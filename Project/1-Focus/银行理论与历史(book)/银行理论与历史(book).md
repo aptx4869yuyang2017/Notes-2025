@@ -7,9 +7,9 @@ year: 1891
 created: 2025-05-22
 tags:
   - domain/econ-fin
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
   - Theory and History of Banking
 Source: CH05

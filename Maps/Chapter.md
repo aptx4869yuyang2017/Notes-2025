@@ -2,6 +2,6 @@
 up:
   - "[[Sources Map]]"
 related:
-  - "[[Book📚]]"
+  - "[[Book]]"
 created: 2024-01-01
 ---

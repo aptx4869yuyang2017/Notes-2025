@@ -1,15 +1,15 @@
 ---
-up: 
+up:
 related:
   - "[[James Clear 詹姆斯 克利尔]]"
-year: 
+year:
 created: 2024-02-07
 tags:
   - domain/health
   - domain/project
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
   - 掌控习惯
   - Atomic Habits

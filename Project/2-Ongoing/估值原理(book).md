@@ -1,14 +1,14 @@
 ---
-up: 
+up:
 related:
   - 周洛华
 year: 2022
 created: 2024-03-31
 tags:
   - domain/investment
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
 ---
 [估值原理 (豆瓣)](https://book.douban.com/subject/35947137/)

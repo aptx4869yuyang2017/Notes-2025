@@ -1,14 +1,14 @@
 ---
-up: 
+up:
 related:
   - "[[管涛]]"
 year: 2016
 created: 2025-08-04
 tags:
   - domain/econ-fin
-type: "[[Book📚]]"
-ch: 
-finished: 
+type: "[[Book]]"
+ch:
+finished:
 aliases:
 ---
 

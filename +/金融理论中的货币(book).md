@@ -8,9 +8,9 @@ year: 1960
 created: 2025-06-29
 tags:
   - domain/econ-fin
-type: "[[Book📚]]"
-ch: 
-finished: 
+type: "[[Book]]"
+ch:
+finished:
 aliases:
   - Money in a Theory of Finance
 source: CH17

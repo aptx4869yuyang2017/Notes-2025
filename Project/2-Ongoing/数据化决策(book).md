@@ -1,6 +1,6 @@
 ---
 name: "How to Measure Anything: Finding the Value of Intangibles in Business"
-up: 
+up:
 related:
   - "[[道格拉斯 W. 哈伯德 Douglas W. Hubbard]]"
 year: 2007
@@ -8,9 +8,9 @@ created: 2024-01-18
 tags:
   - domain/data
   - domain/business
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 ---
 [[道格拉斯 W. 哈伯德 Douglas W. Hubbard]]
 

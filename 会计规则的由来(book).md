@@ -5,7 +5,7 @@ year:
 created: 2025-09-01
 tags:
   - domain/accounting
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch:
 finished:
 aliases:

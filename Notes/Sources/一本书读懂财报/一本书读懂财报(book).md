@@ -1,13 +1,13 @@
 ---
-up: 
+up:
 related:
   - 肖星
 year: 2022
 created: 2024-09-18
-tags: 
-type: "[[Book📚]]"
+tags:
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
 ---
 - [[一本书读懂财报-CH01 资产负债表]]

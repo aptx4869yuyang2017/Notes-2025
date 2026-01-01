@@ -1,7 +1,7 @@
 ---
 up:
-  - "[[Power BI MOC]]"
-related: 
+  - "[[PowerBI MOC]]"
+related:
 created: 2025-07-21
 tags:
   - map

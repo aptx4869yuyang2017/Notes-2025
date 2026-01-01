@@ -1,14 +1,14 @@
 ---
-up: 
+up:
 related:
   - "[[卡萝塔 佩蕾丝 Carlota Perez]]"
   - "[[面基-250618-10小时大课 商业视角&规模效应&演化思维]]"
 year: 2002
 created: 2025-06-30
-tags: 
-type: "[[Book📚]]"
+tags:
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
   - Technological Revolutions and Financial Capital
   - 泡沫与黄金时代的动态演变

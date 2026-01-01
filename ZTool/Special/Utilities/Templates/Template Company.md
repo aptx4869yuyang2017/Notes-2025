@@ -1,10 +1,10 @@
 ---
-up: 
-related: 
-year: 
-created: {{date}}
+up:
+related:
+created:
+  "{ date }":
 tags:
   - domain/investment
-type: "[[Company]]"
+type: "[[Investment Target 投资标的]]"
 aliases:
 ---

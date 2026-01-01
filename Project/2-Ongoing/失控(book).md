@@ -6,8 +6,8 @@ related:
   - "[[Kevin Kelly 凯文 凯利]]"
 year: 1994
 created: 2024-01-17
-tags: 
-type: "[[Book📚]]"
+tags:
+type: "[[Book]]"
 ch: "00"
 finished:
 ---

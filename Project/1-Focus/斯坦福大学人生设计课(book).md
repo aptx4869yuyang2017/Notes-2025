@@ -1,12 +1,12 @@
 ---
-up: 
-related: 
-year: 
+up:
+related:
+year:
 created: 2024-06-01
-tags: 
-type: "[[Book📚]]"
-ch: 
-finished: 
+tags:
+type: "[[Book]]"
+ch:
+finished:
 aliases:
   - Design Your Life
 ---

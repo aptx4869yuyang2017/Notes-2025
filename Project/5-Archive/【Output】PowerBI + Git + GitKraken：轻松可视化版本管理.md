@@ -2,7 +2,7 @@
 up:
   - "[[输出Output Map]]"
 related:
-  - "[[Power BI MOC]]"
+  - "[[PowerBI MOC]]"
 created: 2025-02-14
 tags:
   - domain/powerbi

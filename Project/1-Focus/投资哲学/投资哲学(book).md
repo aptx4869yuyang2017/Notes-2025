@@ -1,12 +1,12 @@
 ---
-up: 
-related: 
-year: 
+up:
+related:
+year:
 created: 2025-03-09
-tags: 
-type: "[[Book📚]]"
-ch: 
-finished: 
+tags:
+type: "[[Book]]"
+ch:
+finished:
 aliases:
 ---
 

@@ -1,14 +1,14 @@
 ---
-up: 
+up:
 related:
   - "[[丹尼尔 卡尼曼]]"
 year: 2011
 created: 2025-06-26
 tags:
   - domain/pyscho
-type: "[[Book📚]]"
+type: "[[Book]]"
 ch: "00"
-finished: 
+finished:
 aliases:
 ---
 # Part1 两个系统

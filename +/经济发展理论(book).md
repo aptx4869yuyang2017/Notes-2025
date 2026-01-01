@@ -1,13 +1,13 @@
 ---
-up: 
+up:
 related:
   - "[[约瑟夫 熊彼特]]"
-year: 
+year:
 created: 2025-06-28
-tags: 
-type: "[[Book📚]]"
-ch: 
-finished: 
+tags:
+type: "[[Book]]"
+ch:
+finished:
 aliases:
   - The Theory of Economic Development
 ---
