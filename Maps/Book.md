@@ -21,13 +21,14 @@ views:
       - finished
       - tags
     sort:
-      - property: file.ctime
+      - property: created
         direction: DESC
       - property: file.name
         direction: DESC
     columnSize:
-      note.created: 118
-      file.name: 268
+      note.created: 115
+      file.name: 254
+      note.finished: 103
 
 ```
 

@@ -12,6 +12,13 @@ finished:
 aliases:
   - The Five Rules for Successful Stock Investing
 ---
+
+
+https://weread.qq.com/web/reader/3f542f43643425f30374c43686a43677947754436797a367836476c44444533ab9
+
+
+
+
 - [[股市真规则-CH01 五项原则]]
 - [[股市真规则-CH02 七个错误]]
 
@@ -41,7 +48,7 @@ aliases:
 	- 净利润：15％以上
 	- ROE 净资产收益率：持续不断地显示有高于15％的净资产收益率
 	- ROA 资产收益率：持续超过 6％～7％
-	- **ROIC** 投入资本收益率 Return on Invested Capital 
+	- **ROIC** 投入资本收益率 Return on Invested Capital  [[投入资本收益率 ROIC]]
 	- **WACC** 加权资本平均成本 Weighted Average Cost of Capital 
 
 ##### **建立竞争优势**
