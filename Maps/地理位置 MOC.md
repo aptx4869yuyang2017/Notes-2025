@@ -1,7 +1,7 @@
 ---
 up:
-  - "[[Home]]"
-related: 
+  - "[[00-Home]]"
+related:
 created: 2025-07-01
 tags:
   - map

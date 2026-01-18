@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[00-Home]]"
 related:
 created: 2025-08-22
 tags:

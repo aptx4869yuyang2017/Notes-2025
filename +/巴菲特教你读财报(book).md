@@ -12,6 +12,10 @@ aliases:
   - Warren Buffett and the Interpretation of Financial Statements
   - 寻找具有持久竞争优势的公司
 ---
+
+【吃素的牛筋丸】推荐的财报书籍
+
+
 # Part 1 投资理念 
 
 

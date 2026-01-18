@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[00-Home]]"
 related:
   - "[[Investments MOC]]"
 created: 2024-12-29

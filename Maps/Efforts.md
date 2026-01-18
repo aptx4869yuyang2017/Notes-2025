@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[00-Home]]"
 created: 2023-08-19
 tags:
   - map
@@ -49,4 +49,4 @@ Keep your priorities in order. Quickly adjust your bandwidth as needed.
 >   
 >   ![[robert-mccall-black-hole-concept-art copy.jpg]]
 
-Back to [[Home]].
+Back to [[00-Home]].

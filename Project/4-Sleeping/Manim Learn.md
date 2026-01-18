@@ -1,8 +1,8 @@
 ---
 created: 2024-04-08
 up:
-  - "[[Home]]"
-related: 
+  - "[[00-Home]]"
+related:
 tags:
   - map
   - domain/manim

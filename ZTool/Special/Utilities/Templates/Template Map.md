@@ -1,8 +1,9 @@
 ---
 up:
-  - "[[Home]]"
-related: 
-created: {{date}}
+  - "[[00-Home]]"
+related:
+created:
+  "{ date }":
 tags:
   - map
 ---

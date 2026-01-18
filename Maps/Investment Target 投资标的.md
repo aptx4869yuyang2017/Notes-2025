@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[00-Home]]"
 related:
   - "[[Investments MOC]]"
 created: 2024-12-29
@@ -20,6 +20,12 @@ filters:
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - created
+    sort:
+      - property: file.mtime
+        direction: DESC
 
 ```
 

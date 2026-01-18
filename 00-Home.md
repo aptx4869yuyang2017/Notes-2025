@@ -108,10 +108,29 @@
 
 # 笔记统计
 
+最近四个月
+
 ```dataview
-TABLE length(rows) AS "月度笔记数量"
-WHERE file.name
-GROUP BY dateformat(file.cday, "yyyy-MM") AS 月份
-SORT rows[0].file.cday DESC
+TABLE WITHOUT ID
+  月份 AS "月份",
+  length(rows) AS "创建数量",
+  round(length(rows) / 30, 1) AS "日均创建"
+WHERE created >= date(today) - dur(3 months)
+GROUP BY dateformat(created, "yyyy-MM") AS 月份
+SORT 月份 DESC
 ```
+
+```dataview
+TABLE WITHOUT ID
+  标签 AS "标签",
+  length(rows) AS "出现次数"
+WHERE created AND created >= date(today) - dur(3 months) AND file.tags
+FLATTEN file.tags AS 标签
+GROUP BY 标签
+SORT length(rows) DESC
+limit 8
+```
+
+
+
 

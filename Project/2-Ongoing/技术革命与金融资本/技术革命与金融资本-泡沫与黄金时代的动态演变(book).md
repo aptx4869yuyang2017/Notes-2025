@@ -6,6 +6,7 @@ related:
 year: 2002
 created: 2025-06-30
 tags:
+  - domain/econ-fin
 type: "[[Book]]"
 ch: "00"
 finished:

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[00-Home]]"
 related:
 created: 2022-01-01
 obsidianUIMode: preview

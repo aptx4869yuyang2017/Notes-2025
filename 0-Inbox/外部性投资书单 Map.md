@@ -1,8 +1,8 @@
 ---
 up:
-  - "[[Home]]"
-related: 
-created: 
+  - "[[00-Home]]"
+related:
+created:
 tags:
   - map
 ---

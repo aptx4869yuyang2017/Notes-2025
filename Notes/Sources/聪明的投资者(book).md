@@ -5,6 +5,7 @@ related:
 year: 1973
 created: 2025-09-07
 tags:
+  - domain/investment
 type: "[[Book]]"
 ch: "00"
 finished:

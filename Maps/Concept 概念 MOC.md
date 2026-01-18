@@ -1,7 +1,7 @@
 ---
 up:
-  - "[[Home]]"
-related: 
+  - "[[00-Home]]"
+related:
 created: 2024-12-10
 tags:
   - map
@@ -83,4 +83,4 @@ Activate "LYT Vision" to resurface thoughts in context. When you twirl this open
 ---
 
 
-Back to: [[Home]]
+Back to: [[00-Home]]

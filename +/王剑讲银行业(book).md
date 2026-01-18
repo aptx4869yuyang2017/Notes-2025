@@ -4,6 +4,7 @@ related:
 year:
 created: 2025-07-31
 tags:
+  - domain/investment
 type: "[[Book]]"
 ch:
 finished:

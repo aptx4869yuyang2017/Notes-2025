@@ -12,7 +12,7 @@ finished:
 aliases:
   - The Five Rules for Successful Stock Investing
 ---
-
+美国晨星公司（Morningstar）股票研究部负责人帕特·多尔西（Pat Dorsey）撰写的一本经典价值投资指南
 
 https://weread.qq.com/web/reader/3f542f43643425f30374c43686a43677947754436797a367836476c44444533ab9
 

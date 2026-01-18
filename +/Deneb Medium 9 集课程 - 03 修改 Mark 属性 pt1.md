@@ -1,12 +1,12 @@
 ---
 up:
-  - "[[Power BI - Deneb]]"
+  - "[[PowerBI Tricks]]"
 related:
   - "[[Power BI - Deneb Medium 9 集课程]]"
 created: 2025-07-22
-tags: 
+tags:
 type: "[[Article]]"
-finished: 
+finished:
 aliases:
 ---
 ![image.png](https://s1.vika.cn/space/2025/07/22/8be025940cfa4b08a7ede46fb5a6da41)
